@@ -6,12 +6,12 @@ Pixel-faithful recreation of the [Grillchi](https://grillchi.ir/fa/menu) QR tabl
 
 | Original | New |
 |---|---|
-| گریل چی / گریلچی / Grillchi / GRILLCHI / Grill Chi | **ویژن** (FA) · **Vision** (EN, with a red **O** in the logo) · **فيجن** (AR) |
+| گریل چی / گریلچی / Grillchi / GRILLCHI / Grill Chi | **ویژن** |
 | Instagram handle (if present) | **vision.tehran** |
 
 All other copy, prices, dish photos, layout, colors, and motion match the source site. Product names that contained the old brand (e.g. «سالاد گریل چی», «Grillchi Zinger») were updated the same way.
 
-The header wordmark is the Latin **Vis<span style="color:#e31c23">o</span>n** lockup (red O), not a raster logo. Drop a real logo file in `public/` if you later want to replace it.
+The header wordmark is **ویژن** in the same display type as the original, next to the sage flame mark. Drop a real logo file in `public/` if you later want to replace it.
 
 ## Run locally
 

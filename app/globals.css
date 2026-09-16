@@ -29,7 +29,6 @@
   --font-body: var(--font-jakarta), system-ui, sans-serif;
   --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
   --ease-spring: cubic-bezier(0.34, 1.56, 0.64, 1);
-  --vision-red: #e31c23;
 }
 
 * {
@@ -528,18 +527,6 @@ html[dir="rtl"] .hscroll-start {
 
 .hscroll::-webkit-scrollbar {
   display: none;
-}
-
-.vision-logo {
-  font-family: var(--font-bodoni), "Bodoni Moda", Georgia, serif;
-  font-weight: 700;
-  letter-spacing: 0.06em;
-  color: var(--cream-bright);
-  font-style: italic;
-}
-
-.vision-logo .o {
-  color: var(--vision-red);
 }
 
 button {

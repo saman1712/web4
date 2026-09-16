@@ -145,6 +145,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
               gap: 9,
               boxShadow: "0 10px 26px rgba(0,0,0,0.35)",
               textDecoration: "none",
+              transition: "transform 0.22s var(--ease-spring)",
             }}
           >
             <Icon name="fork" size={18} sw={1.8} />

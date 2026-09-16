@@ -1,11 +1,3 @@
-export function VisionLogo({ size = 21 }: { size?: number }) {
-  return (
-    <span className="vision-logo" style={{ fontSize: size, lineHeight: 1 }} aria-label="Vision">
-      Visi<span className="o">o</span>n
-    </span>
-  );
-}
-
 export function BrandMark({ size = 21 }: { size?: number }) {
   return (
     <div
@@ -37,7 +29,7 @@ export function BrandMark({ size = 21 }: { size?: number }) {
           <path d="M12 3c1 3-1 4-1 6 0 1 1 2 1 2s2-1 2-3c2 2 3 4 3 6a5 5 0 0 1-10 0c0-3 2-5 3-7 0-1 1-2 2-4Z" />
         </svg>
       </span>
-      <VisionLogo size={size} />
+      ویژن
     </div>
   );
 }
