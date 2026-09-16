@@ -14,6 +14,7 @@ import {
   heroIds,
   localized,
   msg,
+  promoHref,
   promos,
   trendingIds,
 } from "@/lib/catalog";
@@ -37,7 +38,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
     kicker: localized(p, "kicker", locale),
     title: localized(p, "title", locale),
     cta: localized(p, "cta", locale),
-    href: getDish(p.dish_id) ? `/${locale}/dish/${p.dish_id}` : `/${locale}/menu`,
+    href: promoHref(p, locale),
   }));
 
   return (

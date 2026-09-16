@@ -1,9 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import Link from "next/link";
-import { Icon } from "./Icon";
-import { msg } from "@/lib/catalog";
+import { PromoCta } from "./PromoCta";
 import type { Locale } from "@/lib/locales";
 
 const GRADS: Record<string, string> = {
@@ -41,36 +39,18 @@ export function PromoCarousel({ slides, locale }: { slides: PromoSlide[]; locale
           }}
         >
           {slides.map((s) => (
-            <Link key={s.id} href={s.href} style={{ flex: "0 0 100%", textDecoration: "none" }}>
-              <div style={{ height: "100%", position: "relative", display: "flex", alignItems: "center", padding: 24, overflow: "hidden" }}>
+            <div key={s.id} style={{ flex: "0 0 100%", textDecoration: "none" }}>
+              <div style={{ height: "100%", position: "relative", display: "flex", alignItems: "center", justifyContent: "space-between", gap: 16, padding: 24, overflow: "hidden" }}>
                 <div style={{ position: "absolute", inset: 0, background: GRADS[s.gradient_class] ?? GRADS.p0, opacity: 0.9 }} />
-                <div style={{ position: "relative", zIndex: 2, maxWidth: "72%" }}>
+                <div style={{ position: "relative", zIndex: 2, flex: 1, minWidth: 0 }}>
                   <div style={{ fontSize: 11, fontWeight: 700, letterSpacing: "0.16em", textTransform: "none", color: "var(--sage)" }}>{s.kicker}</div>
                   <div style={{ fontFamily: "var(--font-display)", fontWeight: 600, fontSize: 25, lineHeight: 1.08, color: "var(--cream-bright)", marginTop: 9 }}>
                     {s.title}
                   </div>
-                  <span
-                    style={{
-                      marginTop: 15,
-                      display: "inline-flex",
-                      alignItems: "center",
-                      gap: 7,
-                      fontSize: 13,
-                      fontWeight: 600,
-                      color: "#10231a",
-                      background: "var(--cream)",
-                      padding: "9px 15px",
-                      borderRadius: 999,
-                    }}
-                  >
-                    {s.cta}
-                    <span className="rtl-flip">
-                      <Icon name="arrow" size={15} sw={2} />
-                    </span>
-                  </span>
                 </div>
+                <PromoCta href={s.href}>{s.cta}</PromoCta>
               </div>
-            </Link>
+            </div>
           ))}
         </div>
       </div>

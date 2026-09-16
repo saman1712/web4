@@ -1,9 +1,8 @@
-import Link from "next/link";
 import { notFound } from "next/navigation";
 import { BackButton } from "@/components/Sheets";
-import { Icon } from "@/components/Icon";
+import { PromoCta } from "@/components/PromoCta";
 import { Reveal } from "@/components/Reveal";
-import { getDish, localized, msg, promos } from "@/lib/catalog";
+import { localized, msg, promoHref, promos } from "@/lib/catalog";
 import { isLocale, type Locale } from "@/lib/locales";
 
 const GRADS: Record<string, string> = {
@@ -44,53 +43,34 @@ export default async function SpecialsPage({ params }: { params: Promise<{ local
       </div>
       <main className="screen-pad" style={{ paddingInline: 20, display: "flex", flexDirection: "column", gap: 16 }}>
         {promos.map((p, i) => {
-          const dish = getDish(p.dish_id);
-          const href = dish ? `/${locale}/dish/${dish.id}` : `/${locale}/menu`;
+          const href = promoHref(p, locale);
           return (
             <Reveal key={p.id} delay={i * 80}>
-              <Link href={href} style={{ textDecoration: "none" }}>
-                <div
-                  style={{
-                    position: "relative",
-                    borderRadius: 26,
-                    overflow: "hidden",
-                    minHeight: 168,
-                    padding: 24,
-                    display: "flex",
-                    alignItems: "center",
-                    boxShadow: "0 16px 40px rgba(0,0,0,0.4)",
-                  }}
-                >
-                  <div style={{ position: "absolute", inset: 0, background: GRADS[p.gradient_class] ?? GRADS.p0, opacity: 0.9 }} />
-                  <div style={{ position: "relative", zIndex: 2, maxWidth: "86%" }}>
-                    <div style={{ fontSize: 11, fontWeight: 700, letterSpacing: "0.16em", color: "var(--sage)" }}>
-                      {localized(p, "kicker", locale)}
-                    </div>
-                    <div style={{ fontFamily: "var(--font-display)", fontWeight: 600, fontSize: 25, lineHeight: 1.08, color: "var(--cream-bright)", marginTop: 9 }}>
-                      {localized(p, "title", locale)}
-                    </div>
-                    <span
-                      style={{
-                        marginTop: 15,
-                        display: "inline-flex",
-                        alignItems: "center",
-                        gap: 7,
-                        fontSize: 13,
-                        fontWeight: 600,
-                        color: "#10231a",
-                        background: "var(--cream)",
-                        padding: "9px 15px",
-                        borderRadius: 999,
-                      }}
-                    >
-                      {localized(p, "cta", locale)}
-                      <span className="rtl-flip">
-                        <Icon name="arrow" size={15} sw={2} />
-                      </span>
-                    </span>
+              <div
+                style={{
+                  position: "relative",
+                  borderRadius: 26,
+                  overflow: "hidden",
+                  minHeight: 168,
+                  padding: 24,
+                  display: "flex",
+                  alignItems: "center",
+                  justifyContent: "space-between",
+                  gap: 16,
+                  boxShadow: "0 16px 40px rgba(0,0,0,0.4)",
+                }}
+              >
+                <div style={{ position: "absolute", inset: 0, background: GRADS[p.gradient_class] ?? GRADS.p0, opacity: 0.9 }} />
+                <div style={{ position: "relative", zIndex: 2, flex: 1, minWidth: 0 }}>
+                  <div style={{ fontSize: 11, fontWeight: 700, letterSpacing: "0.16em", color: "var(--sage)" }}>
+                    {localized(p, "kicker", locale)}
+                  </div>
+                  <div style={{ fontFamily: "var(--font-display)", fontWeight: 600, fontSize: 25, lineHeight: 1.08, color: "var(--cream-bright)", marginTop: 9 }}>
+                    {localized(p, "title", locale)}
                   </div>
                 </div>
-              </Link>
+                <PromoCta href={href}>{localized(p, "cta", locale)}</PromoCta>
+              </div>
             </Reveal>
           );
         })}

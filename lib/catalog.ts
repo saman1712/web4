@@ -105,6 +105,19 @@ export function getDish(id: string) {
   return dishMap.get(id);
 }
 
+/** Promo source dishes that don't exist on the menu → closest real page. */
+const PROMO_FALLBACK: Record<string, string> = {
+  "truffle-pizza": "/menu",
+  "mixed-grill": "/menu/grill",
+  "saffron-lemonade": "/dish/lemonade",
+};
+
+export function promoHref(promo: Promo, locale: Locale) {
+  const dish = getDish(promo.dish_id);
+  if (dish) return `/${locale}/dish/${dish.id}`;
+  return `/${locale}${PROMO_FALLBACK[promo.dish_id] ?? "/menu"}`;
+}
+
 export function dishesInCategory(categoryId?: string) {
   if (!categoryId || categoryId === "all") return dishes.filter((d) => d.available);
   return dishes.filter((d) => d.available && d.category_id === categoryId);
