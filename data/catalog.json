@@ -1,0 +1,3343 @@
+{
+  "messages": {
+    "fa": {
+      "brand": {
+        "name": "ویژن",
+        "tagline": "غذای اصیل، روی آتش"
+      },
+      "nav": {
+        "home": "خانه",
+        "menu": "منو",
+        "specials": "پیشنهادها",
+        "branch": "شعبه",
+        "language": "زبان"
+      },
+      "home": {
+        "ourMenu": "منوی",
+        "ourMenu2": "ویژن",
+        "heroSub": "کلاسیک‌های روی آتش، با نگاهی نو. اسکن کنید، انتخاب کنید و سفارش دهید — از سر میز.",
+        "browseMenu": "مشاهده منوی کامل",
+        "callWaiter": "صدا زدن گارسون",
+        "featured": "پیشنهاد ویژه",
+        "chefPicks": "انتخاب سرآشپز",
+        "trending": "پرطرفدارها",
+        "trendingSub": "پرسفارش‌ترین‌های امروز",
+        "seeAll": "مشاهده همه"
+      },
+      "menu": {
+        "allDishes": "همه غذاها",
+        "inThisCat": "غذا در این دسته",
+        "items": "مورد"
+      },
+      "dish": {
+        "popular": "محبوب",
+        "new": "جدید",
+        "spicy": "تند",
+        "veg": "گیاهی",
+        "kcal": "کالری",
+        "mins": "دقیقه",
+        "prep": "زمان آماده‌سازی",
+        "energy": "انرژی",
+        "spiceLvl": "تندی",
+        "ingredients": "مواد تشکیل‌دهنده",
+        "addToOrder": "افزودن به سفارش",
+        "added": "به سفارش اضافه شد",
+        "curr": "تومان",
+        "mild": "ملایم"
+      },
+      "branch": {
+        "chooseBranch": "انتخاب شعبه",
+        "chooseBranchSub": "قیمت و موجودی بسته به شعبه متفاوت است",
+        "open": "باز است",
+        "closed": "بسته"
+      },
+      "lang": {
+        "chooseLang": "انتخاب زبان",
+        "chooseLangSub": "منو با زبان شما هماهنگ می‌شود"
+      },
+      "admin": {
+        "dashboard": "داشبورد",
+        "dishes": "غذاها",
+        "categories": "دسته‌ها",
+        "branches": "شعب",
+        "promos": "تبلیغات",
+        "settings": "تنظیمات",
+        "logout": "خروج",
+        "login": "ورود",
+        "email": "ایمیل",
+        "password": "رمز عبور",
+        "save": "ذخیره",
+        "cancel": "لغو",
+        "delete": "حذف",
+        "edit": "ویرایش",
+        "add": "افزودن",
+        "upload": "آپلود تصویر",
+        "featured": "ویژه",
+        "trending": "پرطرفدار",
+        "available": "موجود"
+      },
+      "ui": {
+        "findNearest": "نزدیک‌ترین شعبه را پیدا کنید",
+        "ourBranches": "شعبه‌های ما",
+        "directions": "مسیریابی",
+        "hours": "ساعت کار",
+        "address": "آدرس",
+        "call": "تماس",
+        "instagram": "اینستاگرام",
+        "contactInfo": "اطلاعات تماس",
+        "heroLiveSub": "یک پیتزا برای هر سلیقه، یک سس برای هر هوس.",
+        "waiterCalled": "گارسون در راه است"
+      }
+    },
+    "en": {
+      "brand": {
+        "name": "Vision",
+        "tagline": "Fire-grilled, beautifully served"
+      },
+      "nav": {
+        "home": "Home",
+        "menu": "Menu",
+        "specials": "Offers",
+        "branch": "Branch",
+        "language": "Language"
+      },
+      "home": {
+        "ourMenu": "Explore the",
+        "ourMenu2": "Vision",
+        "heroSub": "Charcoal-fired classics, reimagined. Scan, browse and order — right from your table.",
+        "browseMenu": "Browse full menu",
+        "callWaiter": "Call waiter",
+        "featured": "Featured",
+        "chefPicks": "Chef's selection",
+        "trending": "Trending now",
+        "trendingSub": "What everyone is ordering today",
+        "seeAll": "See all"
+      },
+      "menu": {
+        "allDishes": "All dishes",
+        "inThisCat": "dishes in this category",
+        "items": "items"
+      },
+      "dish": {
+        "popular": "Popular",
+        "new": "New",
+        "spicy": "Spicy",
+        "veg": "Veg",
+        "kcal": "kcal",
+        "mins": "min",
+        "prep": "Prep time",
+        "energy": "Energy",
+        "spiceLvl": "Spice",
+        "ingredients": "Ingredients",
+        "addToOrder": "Add to order",
+        "added": "Added to your order",
+        "curr": "Toman",
+        "mild": "Mild"
+      },
+      "branch": {
+        "chooseBranch": "Choose your branch",
+        "chooseBranchSub": "Prices & availability may vary by location",
+        "open": "Open now",
+        "closed": "Closed"
+      },
+      "lang": {
+        "chooseLang": "Choose language",
+        "chooseLangSub": "The menu adapts to your language"
+      },
+      "admin": {
+        "dashboard": "Dashboard",
+        "dishes": "Dishes",
+        "categories": "Categories",
+        "branches": "Branches",
+        "promos": "Promotions",
+        "settings": "Settings",
+        "logout": "Sign out",
+        "login": "Sign in",
+        "email": "Email",
+        "password": "Password",
+        "save": "Save",
+        "cancel": "Cancel",
+        "delete": "Delete",
+        "edit": "Edit",
+        "add": "Add new",
+        "upload": "Upload image",
+        "featured": "Featured",
+        "trending": "Trending",
+        "available": "Available"
+      },
+      "ui": {
+        "findNearest": "Find the nearest branch",
+        "ourBranches": "Our branches",
+        "directions": "Directions",
+        "hours": "Hours",
+        "address": "Address",
+        "call": "Call",
+        "instagram": "Instagram",
+        "contactInfo": "Contact",
+        "heroLiveSub": "A pizza for every taste, a sauce for every craving.",
+        "waiterCalled": "A waiter is on the way"
+      }
+    },
+    "ar": {
+      "brand": {
+        "name": "فيجن",
+        "tagline": "طعام أصيل على النار"
+      },
+      "nav": {
+        "home": "الرئيسية",
+        "menu": "القائمة",
+        "specials": "العروض",
+        "branch": "الفرع",
+        "language": "اللغة"
+      },
+      "home": {
+        "ourMenu": "قائمة",
+        "ourMenu2": "فيجن",
+        "heroSub": "كلاسيكيات مشوية، برؤية جديدة. امسح، اختر واطلب — من طاولتك.",
+        "browseMenu": "عرض القائمة كاملة",
+        "callWaiter": "استدعاء النادل",
+        "featured": "عرض خاص",
+        "chefPicks": "اختيار الشيف",
+        "trending": "الأكثر طلباً",
+        "trendingSub": "الأكثر طلباً اليوم",
+        "seeAll": "عرض الكل"
+      },
+      "menu": {
+        "allDishes": "كل الأطباق",
+        "inThisCat": "طبق في هذا القسم",
+        "items": "عنصر"
+      },
+      "dish": {
+        "popular": "شائع",
+        "new": "جديد",
+        "spicy": "حار",
+        "veg": "نباتي",
+        "kcal": "سعرة",
+        "mins": "دقيقة",
+        "prep": "وقت التحضير",
+        "energy": "الطاقة",
+        "spiceLvl": "الحرارة",
+        "ingredients": "المكونات",
+        "addToOrder": "أضف إلى الطلب",
+        "added": "أُضيف إلى طلبك",
+        "curr": "تومان",
+        "mild": "خفيف"
+      },
+      "branch": {
+        "chooseBranch": "اختر الفرع",
+        "chooseBranchSub": "قد تختلف الأسعار والتوفر حسب الفرع",
+        "open": "مفتوح الآن",
+        "closed": "مغلق"
+      },
+      "lang": {
+        "chooseLang": "اختر اللغة",
+        "chooseLangSub": "القائمة تتكيف مع لغتك"
+      },
+      "ui": {
+        "findNearest": "اعثر على أقرب فرع",
+        "ourBranches": "فروعنا",
+        "directions": "الاتجاهات",
+        "hours": "ساعات العمل",
+        "address": "العنوان",
+        "call": "اتصال",
+        "instagram": "إنستغرام",
+        "contactInfo": "معلومات الاتصال",
+        "heroLiveSub": "بيتزا لكل ذوق، وصلصة لكل رغبة.",
+        "waiterCalled": "النادل في الطريق"
+      }
+    }
+  },
+  "categories": [
+    {
+      "id": "starters",
+      "icon_paths": "<path d=\"M3 11h18a9 9 0 0 1-18 0Z\"/><path d=\"M12 11V6M10 6c0-1 .8-2 2-2s2 1 2 2\"/><path d=\"M5 20h14\"/>",
+      "sort_order": 1,
+      "name_en": "Starters",
+      "name_fa": "پیش‌غذا",
+      "name_ar": "مقبلات"
+    },
+    {
+      "id": "burger",
+      "icon_paths": "<path d=\"M4 9c0-3 3.6-5 8-5s8 2 8 5\"/><path d=\"M3.5 13.5h17\"/><path d=\"M5 17.5c0 1.1 1 1.5 2 1.5h10c1 0 2-.4 2-1.5\"/>",
+      "sort_order": 2,
+      "name_en": "Burgers",
+      "name_fa": "برگر",
+      "name_ar": "برغر"
+    },
+    {
+      "id": "san",
+      "icon_paths": "<path d=\"M4 10c0-2.2 1.8-4 4-4h8c2.2 0 4 1.8 4 4\"/>\n<path d=\"M4 10v2c0 2.2 1.8 4 4 4h8c2.2 0 4-1.8 4-4v-2\"/>\n<path d=\"M6 12h12\"/>\n<path d=\"M8 9h.01\"/>\n<path d=\"M12 9h.01\"/>\n<path d=\"M16 9h.01\"/>",
+      "sort_order": 3,
+      "name_en": "Sandwich ",
+      "name_fa": "ساندویچ",
+      "name_ar": "شطیرة"
+    },
+    {
+      "id": "coldsan",
+      "icon_paths": "<path d=\"M4 11a4 4 0 0 1 4-4h8a4 4 0 0 1 4 4\"/>\n<path d=\"M4 11h16\"/>\n<path d=\"M5 13h14\"/>\n<path d=\"M6 13v1a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2v-1\"/>",
+      "sort_order": 4,
+      "name_en": "Cold Sandwich ",
+      "name_fa": "ساندویچ سرد",
+      "name_ar": "ساندويتش بارد"
+    },
+    {
+      "id": "grill",
+      "icon_paths": "<path d=\"M5 4v16M9 4v16M13 4v16M17 4v16\"/><path d=\"M3 9h16M3 14h16\"/>",
+      "sort_order": 5,
+      "name_en": "Grills",
+      "name_fa": "خوراک",
+      "name_ar": "مشاوي"
+    },
+    {
+      "id": "pizza",
+      "icon_paths": "<path d=\"M12 3C7 3 3 6 3 6l9 15 9-15s-4-3-9-3Z\"/><circle cx=\"10\" cy=\"9\" r=\"1\"/><circle cx=\"13.5\" cy=\"12\" r=\"1\"/><circle cx=\"9\" cy=\"13.5\" r=\"1\"/>",
+      "sort_order": 6,
+      "name_en": "Pizza",
+      "name_fa": "پیتزا",
+      "name_ar": "بيتزا"
+    },
+    {
+      "id": "salad",
+      "icon_paths": "<path d=\"M3 11h18a9 9 0 0 1-18 0Z\"/><path d=\"M8 8c-1-2 0-4 2-4M14 7c1-2 3-2 4-1M11 8c0-2 1-3 2-3\"/>",
+      "sort_order": 7,
+      "name_en": "Salads",
+      "name_fa": "سالاد",
+      "name_ar": "سلطة"
+    },
+    {
+      "id": "drinks",
+      "icon_paths": "<path d=\"M6 4h12l-1.5 16h-9L6 4Z\"/><path d=\"M6.5 9h11\"/><path d=\"M12 13v4\"/>",
+      "sort_order": 8,
+      "name_en": "Signature Drinks",
+      "name_fa": "نوشیدنی مخصوص ",
+      "name_ar": "    المشروبات الخاصة "
+    },
+    {
+      "id": "drinksoft",
+      "icon_paths": "<path d=\"M6 4h12l-1.5 16h-9L6 4Z\"/><path d=\"M6.5 9h11\"/><path d=\"M12 13v4\"/>\n",
+      "sort_order": 9,
+      "name_en": "Classic Drink",
+      "name_fa": "نوشیدنی کلاسیک",
+      "name_ar": "    المشروبات الكلاسيكية"
+    }
+  ],
+  "branches": [
+    {
+      "id": "isfahan-markazi",
+      "open": false,
+      "hours": "12:00 – 00:00",
+      "sort_order": 0,
+      "name_en": "Markazi",
+      "name_fa": "مرکزی",
+      "name_ar": "المركزي",
+      "city_en": "Isfahan",
+      "city_fa": "اصفهان",
+      "city_ar": "أصفهان",
+      "dist_en": "Chaharbagh Khaju",
+      "dist_fa": "چهارباغ خواجو",
+      "dist_ar": "تشهارباغ خواجو",
+      "image_url": null,
+      "phone": "03132125312",
+      "lat": null,
+      "lng": null,
+      "address_en": "Chaharbagh Khaju, opposite IRIB",
+      "address_fa": "چهارباغ خواجو، روبروی صدا و سیما",
+      "address_ar": "تشهارباغ خواجو، مقابل الإذاعة والتلفزيون",
+      "maps_url": "https://maps.app.goo.gl/UWe9w3gsDhDA3Pco9",
+      "opens_at": 12,
+      "closes_at": 24
+    },
+    {
+      "id": "isfahan-aaliqapu",
+      "open": false,
+      "hours": "12:00 – 00:00",
+      "sort_order": 1,
+      "name_en": "Aali Qapu",
+      "name_fa": "عالی قاپو",
+      "name_ar": "عالي قابو",
+      "city_en": "Isfahan",
+      "city_fa": "اصفهان",
+      "city_ar": "أصفهان",
+      "dist_en": "Chaharbagh Abbasi",
+      "dist_fa": "چهارباغ عباسی",
+      "dist_ar": "تشهارباغ عباسي",
+      "image_url": null,
+      "phone": "03131313029",
+      "lat": null,
+      "lng": null,
+      "address_en": "Chaharbagh Abbasi, Aali Qapu Hotel",
+      "address_fa": "چهارباغ عباسی، هتل عالی قاپو",
+      "address_ar": "تشهارباغ عباسي، فندق عالي قابو",
+      "maps_url": "https://maps.app.goo.gl/cExYfEwS61x5Dy7z7",
+      "opens_at": 12,
+      "closes_at": 24
+    },
+    {
+      "id": "shiraz-ghodoosi",
+      "open": false,
+      "hours": "12:00 – 00:00",
+      "sort_order": 2,
+      "name_en": "Ghodoosi",
+      "name_fa": "قدوسی",
+      "name_ar": "قدوسي",
+      "city_en": "Shiraz",
+      "city_fa": "شیراز",
+      "city_ar": "شيراز",
+      "dist_en": "West Ghodoosi Blvd",
+      "dist_fa": "بلوار قدوسی غربی",
+      "dist_ar": "شارع قدوسي الغربي",
+      "image_url": null,
+      "phone": "09306960708",
+      "lat": null,
+      "lng": null,
+      "address_en": "West Ghodoosi Blvd, No. 14",
+      "address_fa": "بلوار قدوسی غربی، پلاک ۱۴",
+      "address_ar": "شارع قدوسي الغربي، رقم ١٤",
+      "maps_url": "https://maps.app.goo.gl/ERdMjzWVk7Pf3mhu7",
+      "opens_at": 12,
+      "closes_at": 24
+    }
+  ],
+  "promos": [
+    {
+      "id": "p0",
+      "dish_id": "truffle-pizza",
+      "sort_order": 0,
+      "active": true,
+      "gradient_class": "p0",
+      "kicker_en": "QR Exclusive",
+      "kicker_fa": "ویژه کیو‌آر",
+      "kicker_ar": "حصري QR",
+      "title_en": "20% off your first table order",
+      "title_fa": "۲۰٪ تخفیف اولین سفارش سر میز",
+      "title_ar": "خصم ٢٠٪ على أول طلب",
+      "cta_en": "Claim offer",
+      "cta_fa": "دریافت تخفیف",
+      "cta_ar": "احصل على العرض"
+    },
+    {
+      "id": "p1",
+      "dish_id": "mixed-grill",
+      "sort_order": 1,
+      "active": true,
+      "gradient_class": "p1",
+      "kicker_en": "Family Feast",
+      "kicker_fa": "ضیافت خانوادگی",
+      "kicker_ar": "وجبة العائلة",
+      "title_en": "Mixed grill for 4 · save 25%",
+      "title_fa": "خوراک مخلوط ۴ نفره · ۲۵٪ تخفیف",
+      "title_ar": "مشاوي لـ ٤ · وفّر ٢٥٪",
+      "cta_en": "View feast",
+      "cta_fa": "مشاهده",
+      "cta_ar": "عرض الوجبة"
+    },
+    {
+      "id": "p2",
+      "dish_id": "saffron-lemonade",
+      "sort_order": 2,
+      "active": true,
+      "gradient_class": "p2",
+      "kicker_en": "Just launched",
+      "kicker_fa": "تازه رسید",
+      "kicker_ar": "وصل حديثاً",
+      "title_en": "Saffron lemonade — summer special",
+      "title_fa": "لیموناد زعفرانی · ویژه تابستان",
+      "title_ar": "ليموناضة الزعفران · صيفي",
+      "cta_en": "Try it",
+      "cta_fa": "امتحان کنید",
+      "cta_ar": "جرّبها"
+    }
+  ],
+  "heroIds": [
+    "grill-chi-chicken-schnitzel",
+    "pulled-beef-",
+    "garlic-steak"
+  ],
+  "trendingIds": [
+    "-grill-chi-salad",
+    "beef-tongue-pizza",
+    "chicken-mushroom",
+    "chicken-with-pomegranate-sauce",
+    "berry-salad"
+  ],
+  "dishes": [
+    {
+      "id": "onion-burger",
+      "category_id": "burger",
+      "price": 648.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 950,
+      "mins": 20,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/onion-burger.png?v=mq7ypa5j",
+      "name_en": "ONION BURGER",
+      "name_fa": "آنیون برگر",
+      "name_ar": "برغر البصل",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [
+        "Brioche bun",
+        "150g beef burger",
+        "caramelized onion",
+        "special sauce",
+        "lettuce",
+        "tomato",
+        "pickles",
+        "special cheese dip"
+      ],
+      "ing_fa": [
+        "نان بریوش تست شده، ۱۵۰ گرم گوشت برگر، پیاز کاراملی، سس مخصوص، کاهو، گوجه، خیارشور، دیپ پنیر مخصوص"
+      ],
+      "ing_ar": [
+        "خبز بريوش، 150 غرام برغر لحم بقري، بصل مكرمل، صوص خاص، خس، طماطم، مخلل، صوص جبن خاص"
+      ],
+      "tags": [],
+      "price_variants": [],
+      "image": "onion-burger.png"
+    },
+    {
+      "id": "special-burger",
+      "category_id": "burger",
+      "price": 598.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 850,
+      "mins": 20,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/special-burger.png?v=mq7zesc4",
+      "name_en": "SPECIAL BURGER",
+      "name_fa": "برگر مخصوص",
+      "name_ar": "البرغر الخاص",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [
+        "Brioche bun",
+        "150g beef burger",
+        "special sauce",
+        "lettuce",
+        "tomato",
+        "pickles",
+        "special cheese dip"
+      ],
+      "ing_fa": [
+        "نان بریوش تست شده، ۱۵۰ گرم گوشت برگر، سس مخصوص، کاهو، گوجه، خیارشور، دیپ پنیر مخصوص"
+      ],
+      "ing_ar": [
+        "خبز بريوش، 150 غرام برغر لحم بقري، صوص خاص، خس، طماطم، مخلل، صوص جبن خاص"
+      ],
+      "tags": [],
+      "price_variants": [],
+      "image": "special-burger.png"
+    },
+    {
+      "id": "mix-burger",
+      "category_id": "burger",
+      "price": 798.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 1200,
+      "mins": 20,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/mix-burger.png?v=mqo141fi",
+      "name_en": "MIX BURGER",
+      "name_fa": "برگر میکس",
+      "name_ar": "برغر ميكس",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [
+        "Brioche bun",
+        "150g beef burger",
+        "2 grilled chicken fillets",
+        "Gouda cheese slice",
+        "special sauce",
+        "lettuce",
+        "tomato",
+        "pickles",
+        "special cheese dip"
+      ],
+      "ing_fa": [
+        "نان بریوش تست شده، ۱۵۰ گرم گوشت برگر، ۲ عدد فیله مرغ گریل، پنیر ورقه‌ای گودا، سس مخصوص، کاهو، گوجه، خیارشور، دیپ پنیر مخصوص"
+      ],
+      "ing_ar": [
+        "خبز بريوش، 150 غرام برغر لحم بقري، 2 فيليه دجاج مشوي، شريحة جبنة غودا، صوص خاص، خس، طماطم، مخلل، صوص جبن خاص"
+      ],
+      "tags": [],
+      "price_variants": [],
+      "image": "mix-burger.png"
+    },
+    {
+      "id": "double-burger",
+      "category_id": "burger",
+      "price": 848.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 1300,
+      "mins": 20,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/double-burger.png?v=mqo15uul",
+      "name_en": "DOUBLE BURGER",
+      "name_fa": "دبل برگر",
+      "name_ar": "دبل برغر",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [
+        "Brioche bun",
+        "300g beef burger",
+        "special sauce",
+        "lettuce",
+        "tomato",
+        "pickles",
+        "special cheese dip"
+      ],
+      "ing_fa": [
+        "نان بریوش تست شده، ۳۰۰ گرم گوشت برگر، سس مخصوص، کاهو، گوجه، خیارشور، دیپ پنیر مخصوص"
+      ],
+      "ing_ar": [
+        "خبز بريوش، 300 غرام برغر لحم بقري، صوص خاص، خس، طماطم، مخلل، صوص جبن خاص"
+      ],
+      "tags": [],
+      "price_variants": [],
+      "image": "double-burger.png"
+    },
+    {
+      "id": "mushroom-burger",
+      "category_id": "burger",
+      "price": 648.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 950,
+      "mins": 20,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/mushroom-burger.png?v=mq7yhvn5",
+      "name_en": "MUSHROOM BURGER",
+      "name_fa": "ماشروم برگر",
+      "name_ar": "برغر الفطر",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [
+        "Brioche bun",
+        "150g beef burger",
+        "mushroom sauce",
+        "special sauce",
+        "lettuce",
+        "tomato",
+        "pickles",
+        "special cheese dip"
+      ],
+      "ing_fa": [
+        "نان بریوش تست شده، ۱۵۰ گرم گوشت برگر، سس قارچ، سس مخصوص، کاهو، گوجه، خیارشور، دیپ پنیر مخصوص"
+      ],
+      "ing_ar": [
+        "خبز بريوش، 150 غرام برغر لحم بقري، صوص الفطر، صوص خاص، خس، طماطم، مخلل، صوص جبن خاص"
+      ],
+      "tags": [],
+      "price_variants": [],
+      "image": "mushroom-burger.png"
+    },
+    {
+      "id": "grill-chi-burger",
+      "category_id": "burger",
+      "price": 698.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 1000,
+      "mins": 20,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/grill-chi-burger.png?v=mq7z25hs",
+      "name_en": "Vision burger",
+      "name_fa": "ویژن برگر",
+      "name_ar": "برغر غریل تشي",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [
+        "Brioche bun",
+        "150g beef burger",
+        "Gouda cheese slice",
+        "mixed cheese",
+        "beef bacon",
+        "special sauce",
+        "lettuce",
+        "tomato",
+        "pickles",
+        "special cheese dip"
+      ],
+      "ing_fa": [
+        "نان بریوش تست شده، ۱۵۰ گرم گوشت برگر، پنیر ورقه‌ای گودا، میکس پنیر، بیکن گوشت، سس مخصوص، کاهو، گوجه، خیارشور، دیپ پنیر مخصوص"
+      ],
+      "ing_ar": [
+        "خبز بريوش، 150 غرام برغر لحم بقري، شريحة جبنة غودا، خليط أجبان، بيكون لحم بقري، صوص خاص، خس، طماطم، مخلل، صوص جبن خاص"
+      ],
+      "tags": [],
+      "price_variants": [],
+      "image": "grill-chi-burger.png"
+    },
+    {
+      "id": "cheeseburger",
+      "category_id": "burger",
+      "price": 648.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 950,
+      "mins": 20,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/cheeseburger.png?v=mq80mi6y",
+      "name_en": "CHEESEBURGER",
+      "name_fa": "چیز برگر",
+      "name_ar": "تشيز برغر",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [
+        "Brioche bun",
+        "150g beef burger",
+        "Gouda cheese slice",
+        "special sauce",
+        "lettuce",
+        "tomato",
+        "pickles",
+        "special cheese dip"
+      ],
+      "ing_fa": [
+        "نان بریوش تست شده، ۱۵۰ گرم گوشت برگر، پنیر ورقه‌ای گودا، سس مخصوص، کاهو، گوجه، خیارشور، دیپ پنیر مخصوص"
+      ],
+      "ing_ar": [
+        "خبز بريوش، 150 غرام برغر لحم بقري، شريحة جبنة غودا، صوص خاص، خس، طماطم، مخلل، صوص جبن خاص"
+      ],
+      "tags": [],
+      "price_variants": [],
+      "image": "cheeseburger.png"
+    },
+    {
+      "id": "turkey-bacon-toast-sandwich",
+      "category_id": "coldsan",
+      "price": 598.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 680,
+      "mins": 15,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/turkey-bacon-toast-sandwich.png?v=mq80pjot",
+      "name_en": "Turkey Bacon Toast Sandwich",
+      "name_fa": "ساندویچ تست بیکن بوقلمون",
+      "name_ar": "ساندويش توست بيكون الديك الرومي",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [
+        "5 slices turkey bacon",
+        "Gouda cheese",
+        "special sauce",
+        "lettuce",
+        "tomato",
+        "cucumber pickle",
+        "special cheese dip"
+      ],
+      "ing_fa": [
+        "۵ ورق بیکن بوقلمون، پنیر ورقه‌ای گودا، سس مخصوص، کاهو، گوجه، خیارشور، دیپ پنیر مخصوص"
+      ],
+      "ing_ar": [
+        "5 شرائح بيكون ديك رومي، جبنة جودا، صلصة خاصة، خس، طماطم، مخلل خيار، ديب جبنة خاص"
+      ],
+      "tags": [],
+      "price_variants": [],
+      "image": "turkey-bacon-toast-sandwich.png"
+    },
+    {
+      "id": "chicken-bacon-toast-sandwich",
+      "category_id": "coldsan",
+      "price": 598.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 690,
+      "mins": 15,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/chicken-bacon-toast-sandwich.png?v=mq7zvzxq",
+      "name_en": "Chicken Bacon Toast Sandwich",
+      "name_fa": "ساندویچ تست بیکن مرغ",
+      "name_ar": "ساندويش توست بيكون الدجاج",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [
+        "5 slices chicken bacon",
+        "Gouda cheese",
+        "special sauce",
+        "lettuce",
+        "tomato",
+        "cucumber pickle",
+        "special cheese dip."
+      ],
+      "ing_fa": [
+        "۵ ورق بیکن مرغ، پنیر ورقه‌ای گودا، سس مخصوص، کاهو، گوجه، خیارشور، دیپ پنیر مخصوص"
+      ],
+      "ing_ar": [
+        "5 شرائح بيكون دجاج، جبنة جودا، صلصة خاصة، خس، طماطم، مخلل خيار، ديب جبنة خاص"
+      ],
+      "tags": [],
+      "price_variants": [],
+      "image": "chicken-bacon-toast-sandwich.png"
+    },
+    {
+      "id": "beef-bacon-toast-sandwich",
+      "category_id": "coldsan",
+      "price": 598.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 760,
+      "mins": 15,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/beef-bacon-toast-sandwich.png?v=mq7z4ace",
+      "name_en": "Beef Bacon Toast Sandwich",
+      "name_fa": "ساندویچ تست بیکن گوشت",
+      "name_ar": "ساندويش توست بيكون اللحم",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [
+        "5 slices beef bacon",
+        "Gouda cheese",
+        "special sauce",
+        "lettuce",
+        "tomato",
+        "cucumber pickle",
+        "special cheese dip."
+      ],
+      "ing_fa": [
+        "۵ ورق بیکن گوشت، پنیر ورقه‌ای گودا، سس مخصوص، کاهو، گوجه، خیارشور، دیپ پنیر مخصوص"
+      ],
+      "ing_ar": [
+        "5 شرائح بيكون لحم بقري، جبنة جودا، صلصة خاصة، خس، طماطم، مخلل خيار، ديب جبنة خاص"
+      ],
+      "tags": [],
+      "price_variants": [
+        {
+          "id": "v1",
+          "price": 598,
+          "label_ar": "",
+          "label_en": "",
+          "label_fa": ""
+        }
+      ],
+      "image": "beef-bacon-toast-sandwich.png"
+    },
+    {
+      "id": "blue-island",
+      "category_id": "drinks",
+      "price": 280.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 0,
+      "mins": 0,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/blue-island.png?v=mrb6893p",
+      "name_en": "Blue Island",
+      "name_fa": "بلو آیلند",
+      "name_ar": "بلو آيلاند",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [],
+      "ing_fa": [
+        "سیروپ بلوکاراسائو، سیروپ نارگیل، آب لیموی تازه، آب آناناس، سودا، گل پنیرک"
+      ],
+      "ing_ar": [
+        "سيروب بلو كوراساو، سيروب جوز الهند، عصير ليمون طازج، عصير الأناناس، صودا، زهرة الخبيزة"
+      ],
+      "tags": [],
+      "price_variants": [],
+      "image": "blue-island.png"
+    },
+    {
+      "id": "draft-malt-drink",
+      "category_id": "drinks",
+      "price": 148.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 0,
+      "mins": 0,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/draft-malt-drink.png?v=mqo3pzg0",
+      "name_en": "Draft Malt Drink",
+      "name_fa": "دلستر لیوانی",
+      "name_ar": "شراب الشعير بالكأس",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [],
+      "ing_fa": [],
+      "ing_ar": [],
+      "tags": [],
+      "price_variants": [],
+      "image": "draft-malt-drink.png"
+    },
+    {
+      "id": "drink",
+      "category_id": "drinks",
+      "price": 58.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 0,
+      "mins": 0,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/drink.png?v=mrb7fbmr",
+      "name_en": "Cup Soda",
+      "name_fa": "سودا لیوانی",
+      "name_ar": "صودا في كوب",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [],
+      "ing_fa": [],
+      "ing_ar": [],
+      "tags": [],
+      "price_variants": [],
+      "image": "drink.png"
+    },
+    {
+      "id": "drinks",
+      "category_id": "drinks",
+      "price": 168.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 0,
+      "mins": 0,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/1783463914032.png?v=mrb8d8mt",
+      "name_en": "Cup Fanta",
+      "name_fa": "فانتا لیوانی",
+      "name_ar": "فانتا في كوب",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [],
+      "ing_fa": [],
+      "ing_ar": [],
+      "tags": [],
+      "price_variants": [],
+      "image": "1783463914032.png"
+    },
+    {
+      "id": "flair-red",
+      "category_id": "drinks",
+      "price": 280.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 0,
+      "mins": 0,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/flair-red.png?v=mrb5x0he",
+      "name_en": "Flair Red",
+      "name_fa": "فلر رد",
+      "name_ar": "فلير ريد",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [
+        "Pomegranate Syrup",
+        "Berry Syrup",
+        "Fresh Lemon Juice",
+        "Pomegranate Juice",
+        "Sour Cherry Juice",
+        "Fanta"
+      ],
+      "ing_fa": [
+        "سیروپ انار، سیروپ بری، آب لیموی تازه، آب انار، آب آلبالو، فانتا"
+      ],
+      "ing_ar": [
+        "سيروب الرمان، سيروب التوت، عصير ليمون طازج، عصير الرمان، عصير الكرز الحامض، فانتا"
+      ],
+      "tags": [],
+      "price_variants": [],
+      "image": "flair-red.png"
+    },
+    {
+      "id": "fresh-mojito",
+      "category_id": "drinks",
+      "price": 248.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 0,
+      "mins": 0,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/fresh-mojito.png?v=mrb62g36",
+      "name_en": "Fresh Mojito",
+      "name_fa": "موهیتو فرش",
+      "name_ar": "موهيتو فرش",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [
+        "Mojito Syrup",
+        "Fresh Mint",
+        "Fresh Lemon Juice",
+        "Soda Water & Sprite"
+      ],
+      "ing_fa": [
+        "سیروپ موهیتو، نعناع تازه، آب لیموی تازه، سودا و اسپرایت"
+      ],
+      "ing_ar": [
+        "سيروب الموهيتو، نعناع طازج، عصير ليمون طازج، صودا وسبرايت"
+      ],
+      "tags": [],
+      "price_variants": [],
+      "image": "fresh-mojito.png"
+    },
+    {
+      "id": "hello-green",
+      "category_id": "drinks",
+      "price": 288.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 0,
+      "mins": 0,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/hello-green.png?v=mrb68pzx",
+      "name_en": "Hello Green ",
+      "name_fa": "هالو گرین ",
+      "name_ar": "هالو غرين ",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [
+        "Jalapeño",
+        "Italian Basil",
+        "Fresh Lemon Juice",
+        "Lemon Syrup",
+        "Hohenberg Apple Kiwi"
+      ],
+      "ing_fa": [
+        "هالوپینو، ریحان ایتالیایی، آب لیموی تازه، سیروپ لیمو، هافنبرگ سیب کیوی"
+      ],
+      "ing_ar": [
+        "هالبينو، ريحان إيطالي، عصير ليمون طازج، سيروب الليمون، هافنبرغ تفاح وكيوي"
+      ],
+      "tags": [],
+      "price_variants": [],
+      "image": "hello-green.png"
+    },
+    {
+      "id": "cola-berry",
+      "category_id": "drinks",
+      "price": 248.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 0,
+      "mins": 0,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/cola-berry.png?v=mrb65ge7",
+      "name_en": "Cola Berry",
+      "name_fa": "کولا بری",
+      "name_ar": "كولا بيري",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [
+        "Black Tea",
+        "Strawberry Syrup",
+        "Fresh Lemon Juice",
+        "Coca-Cola"
+      ],
+      "ing_fa": [
+        "چای سیاه، سیروپ توت‌فرنگی، آب لیموی تازه، کوک"
+      ],
+      "ing_ar": [
+        "شاي أسود، سيروب الفراولة، عصير ليمون طازج، كوكاكولا"
+      ],
+      "tags": [],
+      "price_variants": [],
+      "image": "cola-berry.png"
+    },
+    {
+      "id": "drink-",
+      "category_id": "drinks",
+      "price": 168.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 0,
+      "mins": 0,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/drink-.png?v=mrb7d2m1",
+      "name_en": "Cup Coca-Cola",
+      "name_fa": "کوکا لیوانی",
+      "name_ar": "كوكا كولا في كوب",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [],
+      "ing_fa": [],
+      "ing_ar": [],
+      "tags": [],
+      "price_variants": [],
+      "image": "drink-.png"
+    },
+    {
+      "id": "mineral-water",
+      "category_id": "drinksoft",
+      "price": 20.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 0,
+      "mins": 0,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/1781783799243.png?v=mqjg2poa",
+      "name_en": "Mineral Water",
+      "name_fa": "آب معدنی",
+      "name_ar": "مياه معدنية",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [],
+      "ing_fa": [],
+      "ing_ar": [],
+      "tags": [],
+      "price_variants": [],
+      "image": "1781783799243.png"
+    },
+    {
+      "id": "family-size-mineral-water",
+      "category_id": "drinksoft",
+      "price": 25.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 0,
+      "mins": 0,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/1781779735384.png?v=mqjdnkfg",
+      "name_en": "Family Size Mineral Water",
+      "name_fa": "آب معدنی خانواده",
+      "name_ar": "مياه معدنية عائلية",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [],
+      "ing_fa": [],
+      "ing_ar": [],
+      "tags": [],
+      "price_variants": [],
+      "image": "1781779735384.png"
+    },
+    {
+      "id": "softdrink",
+      "category_id": "drinksoft",
+      "price": 50.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 0,
+      "mins": 0,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/1783464543672.png?v=mrb8qqfj",
+      "name_en": "    Sprite Bottle",
+      "name_fa": "اسپرایت بطری",
+      "name_ar": "    سبرايت",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [],
+      "ing_fa": [],
+      "ing_ar": [],
+      "tags": [],
+      "price_variants": [],
+      "image": "1783464543672.png"
+    },
+    {
+      "id": "family-size-sprite",
+      "category_id": "drinksoft",
+      "price": 111.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 0,
+      "mins": 0,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/1781779621439.png?v=mqjdl739",
+      "name_en": "Family Size Sprite",
+      "name_fa": "اسپرایت خانواده",
+      "name_ar": "سبرايت عائلي",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [],
+      "ing_fa": [],
+      "ing_ar": [],
+      "tags": [],
+      "price_variants": [],
+      "image": "1781779621439.png"
+    },
+    {
+      "id": "sprite-can",
+      "category_id": "drinksoft",
+      "price": 90.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 0,
+      "mins": 0,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/sprite-can.png?v=mrb60wwr",
+      "name_en": "Sprite Can",
+      "name_fa": "اسپرایت قوطی",
+      "name_ar": "سبرايت علبة",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [],
+      "ing_fa": [],
+      "ing_ar": [],
+      "tags": [],
+      "price_variants": [],
+      "image": "sprite-can.png"
+    },
+    {
+      "id": "canned-doogh",
+      "category_id": "drinksoft",
+      "price": 82.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 0,
+      "mins": 0,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/canned-doogh.png?v=mrb63cjq",
+      "name_en": "Canned Doogh",
+      "name_fa": "دوغ قوطی",
+      "name_ar": "عيران معلب",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [],
+      "ing_fa": [],
+      "ing_ar": [],
+      "tags": [],
+      "price_variants": [],
+      "image": "canned-doogh.png"
+    },
+    {
+      "id": "coca-cola-zero",
+      "category_id": "drinksoft",
+      "price": 83.5,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 0,
+      "mins": 0,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/coca-cola-zero.png?v=mqo3r4en",
+      "name_en": "Coca-Cola Zero",
+      "name_fa": "زیرو",
+      "name_ar": "كوكاكولا زيرو",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [],
+      "ing_fa": [],
+      "ing_ar": [],
+      "tags": [],
+      "price_variants": [],
+      "image": "coca-cola-zero.png"
+    },
+    {
+      "id": "fanta",
+      "category_id": "drinksoft",
+      "price": 50.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 0,
+      "mins": 0,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/fanta.png?v=mrb67azi",
+      "name_en": "Fanta",
+      "name_fa": "فانتا",
+      "name_ar": "فانتا",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [],
+      "ing_fa": [],
+      "ing_ar": [],
+      "tags": [],
+      "price_variants": [],
+      "image": "fanta.png"
+    },
+    {
+      "id": "family-size-fanta",
+      "category_id": "drinksoft",
+      "price": 111.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 0,
+      "mins": 0,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/family-size-fanta.png?v=mqjdf0jf",
+      "name_en": "Family Size Fanta",
+      "name_fa": "فانتا خانواده",
+      "name_ar": "فانتا عائلي",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [],
+      "ing_fa": [],
+      "ing_ar": [],
+      "tags": [],
+      "price_variants": [],
+      "image": "family-size-fanta.png"
+    },
+    {
+      "id": "soft-drinks-",
+      "category_id": "drinksoft",
+      "price": 90.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 0,
+      "mins": 0,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/soft-drinks-.png?v=mrb9jcl8",
+      "name_en": "    Fanta Can",
+      "name_fa": "فانتا قوطی",
+      "name_ar": "    علبة فانتا",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [],
+      "ing_fa": [],
+      "ing_ar": [],
+      "tags": [],
+      "price_variants": [],
+      "image": "soft-drinks-.png"
+    },
+    {
+      "id": "lemonade",
+      "category_id": "drinksoft",
+      "price": 73.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 0,
+      "mins": 0,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/lemonade.png?v=mrb61smi",
+      "name_en": "lemonade",
+      "name_fa": "لیموناد شیشه ای",
+      "name_ar": "ليمونادة",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [
+        "Fresh Lemon Juice",
+        "Lemon Syrup",
+        "Soda Water & Sprite"
+      ],
+      "ing_fa": [],
+      "ing_ar": [
+        "عصير ليمون طازج، سيروب الليمون، صودا وسبرايت"
+      ],
+      "tags": [],
+      "price_variants": [],
+      "image": "lemonade.png"
+    },
+    {
+      "id": "canned-lemonade",
+      "category_id": "drinksoft",
+      "price": 90.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 0,
+      "mins": 0,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/canned-lemonade.png?v=mrb66anv",
+      "name_en": "Canned Lemonade",
+      "name_fa": "لیموناد قوطی",
+      "name_ar": "ليمونادة معلب",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [],
+      "ing_fa": [],
+      "ing_ar": [],
+      "tags": [],
+      "price_variants": [],
+      "image": "canned-lemonade.png"
+    },
+    {
+      "id": "heyday-tropical",
+      "category_id": "drinksoft",
+      "price": 90.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 0,
+      "mins": 0,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/1781782232031.png?v=mqjf58q9",
+      "name_en": "HeyDay Tropical",
+      "name_fa": "هی دی استوایی",
+      "name_ar": "هاي داي استوائي",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [],
+      "ing_fa": [],
+      "ing_ar": [],
+      "tags": [],
+      "price_variants": [],
+      "image": "1781782232031.png"
+    },
+    {
+      "id": "heyday-lemon",
+      "category_id": "drinksoft",
+      "price": 90.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 0,
+      "mins": 0,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/1781782110029.png?v=mqjf2p8c",
+      "name_en": "HeyDay Lemon",
+      "name_fa": "هی دی لیمو",
+      "name_ar": "هاي داي ليمون",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [],
+      "ing_fa": [],
+      "ing_ar": [],
+      "tags": [],
+      "price_variants": [],
+      "image": "1781782110029.png"
+    },
+    {
+      "id": "heyday-peach",
+      "category_id": "drinksoft",
+      "price": 70.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 0,
+      "mins": 0,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/heyday-peach.png?v=mqjfigd2",
+      "name_en": "HeyDay Peach",
+      "name_fa": "هی دی هلو",
+      "name_ar": "هاي داي خوخ",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [],
+      "ing_fa": [],
+      "ing_ar": [],
+      "tags": [],
+      "price_variants": [],
+      "image": "heyday-peach.png"
+    },
+    {
+      "id": "heyday-classic",
+      "category_id": "drinksoft",
+      "price": 90.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 0,
+      "mins": 0,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/1781782372213.png?v=mqjf8c31",
+      "name_en": "HeyDay Classic",
+      "name_fa": "هی دی کلاسیک",
+      "name_ar": "هاي داي كلاسيک",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [],
+      "ing_fa": [],
+      "ing_ar": [],
+      "tags": [],
+      "price_variants": [],
+      "image": "1781782372213.png"
+    },
+    {
+      "id": "coca-cola",
+      "category_id": "drinksoft",
+      "price": 50.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 0,
+      "mins": 0,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/coca-cola.png?v=mrb67rqk",
+      "name_en": "Coca-Cola",
+      "name_fa": "کوکا بطری",
+      "name_ar": "كوكاكولا",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [],
+      "ing_fa": [],
+      "ing_ar": [],
+      "tags": [],
+      "price_variants": [],
+      "image": "coca-cola.png"
+    },
+    {
+      "id": "family-size-coca-cola",
+      "category_id": "drinksoft",
+      "price": 122.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 0,
+      "mins": 0,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/1781779407465.png?v=mqjdgk43",
+      "name_en": "Family Size Coca-Cola",
+      "name_fa": "کوکا خانواده",
+      "name_ar": "كوكاكولا عائلية",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [],
+      "ing_fa": [],
+      "ing_ar": [],
+      "tags": [],
+      "price_variants": [],
+      "image": "1781779407465.png"
+    },
+    {
+      "id": "coca-cola-can",
+      "category_id": "drinksoft",
+      "price": 90.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 0,
+      "mins": 0,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/coca-cola-can.png?v=mqji7f1v",
+      "name_en": "Coca-Cola Can",
+      "name_fa": "کوکا قوطی",
+      "name_ar": "كوكاكولا علبة",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [],
+      "ing_fa": [],
+      "ing_ar": [],
+      "tags": [],
+      "price_variants": [],
+      "image": "coca-cola-can.png"
+    },
+    {
+      "id": "beef-tongue-plate",
+      "category_id": "grill",
+      "price": 748.0,
+      "featured": false,
+      "trending": true,
+      "home_hero": false,
+      "kcal": 1200,
+      "mins": 20,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/beef-tongue-plate.png?v=mq8990co",
+      "name_en": "BEEF TONGUE PLATE",
+      "name_fa": "خوراک زبان",
+      "name_ar": "طبق لسان البقر",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [
+        "150g slow-cooked beef tongue",
+        "mushroom sauce",
+        "French fries"
+      ],
+      "ing_fa": [
+        "۱۵۰ گرم زبان گوساله آرام‌پز، سس قارچ، سیب زمینی سرخ شده"
+      ],
+      "ing_ar": [
+        "150 غرام لسان بقري مطهو ببطء، صوص الفطر، بطاطس مقلية"
+      ],
+      "tags": [],
+      "price_variants": [],
+      "image": "beef-tongue-plate.png"
+    },
+    {
+      "id": "grill-chi-chicken-schnitzel",
+      "category_id": "grill",
+      "price": 748.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": true,
+      "kcal": 900,
+      "mins": 20,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/grill-chi-chicken-schnitzel.png",
+      "name_en": "VISION CHICKEN SCHNITZEL",
+      "name_fa": "خوراک شنیسل ویژن (ران یا سینه)",
+      "name_ar": "شنيتسل فيجن (فخذ أو صدر)",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [
+        "300g chicken schnitzel",
+        "mushroom sauce",
+        "French fries"
+      ],
+      "ing_fa": [
+        "۳۰۰ گرم شنیسل مرغ، سس قارچ، سیب زمینی سرخ شده"
+      ],
+      "ing_ar": [
+        "300 غرام شنيتسل دجاج، صوص الفطر، بطاطس مقلية"
+      ],
+      "tags": [],
+      "price_variants": [],
+      "image": "grill-chi-chicken-schnitzel.png"
+    },
+    {
+      "id": "chicken-strips-2-pcs-",
+      "category_id": "grill",
+      "price": 498.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 750,
+      "mins": 20,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/chicken-strips-2-pcs-.png?v=mqo1rsrh",
+      "name_en": "CHICKEN STRIPS (2 PCS)",
+      "name_fa": "فیله استریپس (دوتکه)",
+      "name_ar": "فيليه ستريبس (قطعتان)",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [
+        "150g crispy chicken fillet",
+        "special sauce",
+        "French fries",
+        "Indonesian salad"
+      ],
+      "ing_fa": [
+        "۱۵۰ گرم فیله مرغ سوخاری، سس مخصوص، سیب زمینی سرخ شده، سالاد اندونزی"
+      ],
+      "ing_ar": [
+        "150 غرام فيليه دجاج مقرمش، صوص خاص، بطاطس مقلية، سلطة إندونيسية"
+      ],
+      "tags": [],
+      "price_variants": [
+        {
+          "id": "v1",
+          "price": 498,
+          "label_ar": "",
+          "label_en": "",
+          "label_fa": ""
+        }
+      ],
+      "image": "chicken-strips-2-pcs-.png"
+    },
+    {
+      "id": "chicken-strips-4-pcs-",
+      "category_id": "grill",
+      "price": 778.0,
+      "featured": false,
+      "trending": true,
+      "home_hero": false,
+      "kcal": 950,
+      "mins": 20,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/chicken-strips-4-pcs-.png?v=mqo1r21d",
+      "name_en": "CHICKEN STRIPS (4 PCS)",
+      "name_fa": "فیله استریپس (چهارتکه)",
+      "name_ar": "فيليه ستريبس (أربع قطع)",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [
+        "300g crispy chicken fillet",
+        "special sauce",
+        "French fries",
+        "Indonesian salad"
+      ],
+      "ing_fa": [
+        "۳۰۰ گرم فیله مرغ سوخاری، سس مخصوص، سیب زمینی سرخ شده، سالاد اندونزی"
+      ],
+      "ing_ar": [
+        "300 غرام فيليه دجاج مقرمش، صوص خاص، بطاطس مقلية، سلطة إندونيسية"
+      ],
+      "tags": [],
+      "price_variants": [],
+      "image": "chicken-strips-4-pcs-.png"
+    },
+    {
+      "id": "alfredo-pasta",
+      "category_id": "grill",
+      "price": 598.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 0,
+      "mins": 0,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/alfredo-pasta.png?v=mqo2ko0x",
+      "name_en": "Alfredo pasta",
+      "name_fa": "پاستا آلفردو",
+      "name_ar": "باستا ألفریدو",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [],
+      "ing_fa": [],
+      "ing_ar": [],
+      "tags": [],
+      "price_variants": [],
+      "image": "alfredo-pasta.png"
+    },
+    {
+      "id": "vegetables-pizza",
+      "category_id": "pizza",
+      "price": 518.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 1100,
+      "mins": 30,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/vegetables-pizza.png?v=mq7zc6bd",
+      "name_en": "Vegetables Pizza ",
+      "name_fa": " پیتزا سبزیجات",
+      "name_ar": "بيتزا الخضروا",
+      "desc_en": "Small",
+      "desc_fa": "تک نفره",
+      "desc_ar": "صغیر",
+      "ing_en": [
+        "Dough",
+        "marinara sauce",
+        "pesto sauce",
+        "mixed cheese",
+        "grilled eggplant",
+        "cabbage",
+        "corn",
+        "black olives",
+        "spinach",
+        "baby corn",
+        "cherry tomatoes",
+        "mushrooms",
+        "bell pepper rings",
+        "broccoli"
+      ],
+      "ing_fa": [
+        "خمیر،سس مارینارا،سس پستو،میکس پنیر،بادمجان کبابی،کلم،ذرت،زیتون سیاه،اسفناج،بلال،گوچه گیلاسی،قارچ،فلفل دلمه ایی حلقه ایی،بروکلی"
+      ],
+      "ing_ar": [
+        "جينة، صلصة مارينارا، صلصة بيستو، خليط أجبان، باذنجان مشوي، ملفوف، ذرة، زيتون أسود، سبانخ، ذرة صغيرة، طماطم كرزية، فطر، حلقات فلفل حلو، بروكلي"
+      ],
+      "tags": [],
+      "price_variants": [
+        {
+          "id": "v1",
+          "price": 518,
+          "label_ar": "صغیر",
+          "label_en": "Small",
+          "label_fa": "تک نفره"
+        },
+        {
+          "id": "v2",
+          "price": 768,
+          "label_ar": "کبیر",
+          "label_en": "Big",
+          "label_fa": "دو نفره"
+        }
+      ],
+      "image": "vegetables-pizza.png"
+    },
+    {
+      "id": "mixed-bacon",
+      "category_id": "pizza",
+      "price": 748.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 1600,
+      "mins": 30,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/mixed-bacon.png?v=mqe04muy",
+      "name_en": "Mixed Bacon",
+      "name_fa": "بیکن میکس",
+      "name_ar": "بيكون مشكل",
+      "desc_en": "Small",
+      "desc_fa": "تک نفره",
+      "desc_ar": "صغیر",
+      "ing_en": [
+        "Dough",
+        "marinara sauce",
+        "beef bacon",
+        "chicken bacon",
+        "mixed cheese",
+        "bell pepper",
+        "mushrooms",
+        "corn"
+      ],
+      "ing_fa": [
+        "خمیر، سس مارینارا، بیکن گوشت، بیکن مرغ، میکس پنیر، فلفل دلمه، قارچ، ذرت"
+      ],
+      "ing_ar": [
+        "عجينة، صلصة مارينارا، بيكون لحم بقري، بيكون دجاج، خليط أجبان، فلفل حلو، فطر، ذرة"
+      ],
+      "tags": [],
+      "price_variants": [
+        {
+          "id": "v1",
+          "price": 748,
+          "label_ar": "صغیر",
+          "label_en": "Small",
+          "label_fa": "تک نفره"
+        },
+        {
+          "id": "v2",
+          "price": 1058,
+          "label_ar": "کبیر",
+          "label_en": "Big",
+          "label_fa": "دو نفره"
+        }
+      ],
+      "image": "mixed-bacon.png"
+    },
+    {
+      "id": "beef-bacon",
+      "category_id": "pizza",
+      "price": 738.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 1500,
+      "mins": 30,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/beef-bacon.png?v=mqe02ta5",
+      "name_en": "Beef Bacon",
+      "name_fa": "بیکن گوشت",
+      "name_ar": "بيكون اللحم البقري",
+      "desc_en": "Small",
+      "desc_fa": "تک نفره",
+      "desc_ar": "صغیر",
+      "ing_en": [
+        "Dough",
+        "marinara sauce",
+        "beef bacon",
+        "mixed cheese",
+        "bell pepper",
+        "mushrooms",
+        "corn"
+      ],
+      "ing_fa": [
+        "خمیر، سس مارینارا، بیکن گوشت، میکس پنیر، فلفل دلمه، قارچ، ذرت"
+      ],
+      "ing_ar": [
+        "عجينة، صلصة مارينارا، بيكون لحم بقري، خليط أجبان، فلفل حلو، فطر، ذرة"
+      ],
+      "tags": [],
+      "price_variants": [
+        {
+          "id": "v1",
+          "price": 738,
+          "label_ar": "صغیر",
+          "label_en": "Small",
+          "label_fa": "تک نفره"
+        },
+        {
+          "id": "v2",
+          "price": 1058,
+          "label_ar": "کبیر",
+          "label_en": "Big",
+          "label_fa": "دو نفره"
+        }
+      ],
+      "image": "beef-bacon.png"
+    },
+    {
+      "id": "beef-tongue-pizza",
+      "category_id": "pizza",
+      "price": 1208.0,
+      "featured": false,
+      "trending": true,
+      "home_hero": false,
+      "kcal": 1800,
+      "mins": 30,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/beef-tongue-pizza.png",
+      "name_en": "Beef Tongue Pizza",
+      "name_fa": "زبان",
+      "name_ar": "بيتزا لسان البقر",
+      "desc_en": "Big",
+      "desc_fa": "دو نفره",
+      "desc_ar": "کبیر",
+      "ing_en": [
+        "Dough",
+        "bacon",
+        "slow-cooked beef tongue",
+        "mixed cheese",
+        "caramelized onion",
+        "mushrooms",
+        "corn",
+        "bell pepper",
+        "special cheese dip"
+      ],
+      "ing_fa": [
+        "خمیر، بیکن، زبان گوساله آرام‌پز، میکس پنیر، پیاز کاراملی، قارچ، ذرت، فلفل دلمه، دیپ پنیر مخصوص"
+      ],
+      "ing_ar": [
+        "عجينة، بيكون، لسان بقر مطهو ببطء، خليط أجبان، بصل مكرمل، فطر، ذرة، فلفل حلو، صوص جبن خاص"
+      ],
+      "tags": [],
+      "price_variants": [
+        {
+          "id": "v2",
+          "price": 1208,
+          "label_ar": "کبیر",
+          "label_en": "Big",
+          "label_fa": "دو نفره"
+        }
+      ],
+      "image": "beef-tongue-pizza.png"
+    },
+    {
+      "id": "salami",
+      "category_id": "pizza",
+      "price": 748.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 1400,
+      "mins": 30,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/salami.png?v=mq7yube6",
+      "name_en": "Salami",
+      "name_fa": "سالامی",
+      "name_ar": "سلامي",
+      "desc_en": "Small",
+      "desc_fa": "تک نفره",
+      "desc_ar": "صغیر",
+      "ing_en": [
+        "Dough",
+        "marinara sauce",
+        "salami",
+        "mixed cheese",
+        "bell pepper"
+      ],
+      "ing_fa": [
+        "خمیر، سس مارینارا، سالامی، میکس پنیر، فلفل دلمه‌"
+      ],
+      "ing_ar": [
+        "عجينة، صلصة مارينارا، سلامي، خليط أجبان، فلفل حلو"
+      ],
+      "tags": [],
+      "price_variants": [
+        {
+          "id": "v1",
+          "price": 748,
+          "label_ar": "صغیر",
+          "label_en": "Small",
+          "label_fa": "یک نفره"
+        },
+        {
+          "id": "v2",
+          "price": 1058,
+          "label_ar": "کبیر",
+          "label_en": "Big",
+          "label_fa": "دو نفره"
+        }
+      ],
+      "image": "salami.png"
+    },
+    {
+      "id": "garlic-steak",
+      "category_id": "pizza",
+      "price": 688.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": true,
+      "kcal": 1600,
+      "mins": 30,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/garlic-steak.png?v=mq80feh9",
+      "name_en": "Garlic & Steak",
+      "name_fa": "سیر و استیک",
+      "name_ar": "ثوم وستيك",
+      "desc_en": "Small",
+      "desc_fa": "تک نفره",
+      "desc_ar": "صغیر",
+      "ing_en": [
+        "Dough",
+        "special garlic sauce",
+        "bacon",
+        "sliced roast beef",
+        "mixed cheese",
+        "sun-dried tomato",
+        "corn",
+        "bell pepper",
+        "caramelized onion",
+        "special cheese dip"
+      ],
+      "ing_fa": [
+        "خمیر، سس سیر مخصوص، بیکن، گوشت رسته ورقه‌ای، میکس پنیر، گوجه خشک، ذرت، فلفل دلمه، پیاز کاراملی، دیپ پنیر مخصوص"
+      ],
+      "ing_ar": [
+        "عجينة، صلصة ثوم خاصة، بيكون، شرائح لحم بقري، خليط أجبان، طماطم مجففة، ذرة، فلفل حلو، بصل مكرمل، صوص جبن خاص"
+      ],
+      "tags": [],
+      "price_variants": [
+        {
+          "id": "v1",
+          "price": 818,
+          "label_ar": "صغیر",
+          "label_en": "Small ",
+          "label_fa": "تک نفره"
+        },
+        {
+          "id": "v2",
+          "price": 1208,
+          "label_ar": "کبیر",
+          "label_en": "Big",
+          "label_fa": "دونفره"
+        }
+      ],
+      "image": "garlic-steak.png"
+    },
+    {
+      "id": "chicken-with-pomegranate-sauce",
+      "category_id": "pizza",
+      "price": 728.0,
+      "featured": false,
+      "trending": true,
+      "home_hero": false,
+      "kcal": 1400,
+      "mins": 30,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/chicken-with-pomegranate-sauce.png?v=mq7zh9zr",
+      "name_en": "Chicken with Pomegranate Sauce",
+      "name_fa": "مرغ با سس انار",
+      "name_ar": "دجاج بصلصة الرمان",
+      "desc_en": "Small",
+      "desc_fa": "تک نفره",
+      "desc_ar": "صغیر",
+      "ing_en": [
+        "Dough",
+        "pomegranate sauce",
+        "chicken schnitzel",
+        "mixed cheese",
+        "mushrooms",
+        "corn",
+        "caramelized onion",
+        "bell pepper",
+        "special cheese dip"
+      ],
+      "ing_fa": [
+        "خمیر، سس انار، شنیسل مرغ، میکس پنیر، قارچ، ذرت، پیاز کاراملی، فلفل دلمه‌ای، دیپ پنیر مخصوص"
+      ],
+      "ing_ar": [
+        "عجينة، صلصة الرمان، شنيتسل دجاج، خليط أجبان، فطر، ذرة، بصل مكرمل، فلفل حلو، صوص جبن خاص"
+      ],
+      "tags": [],
+      "price_variants": [
+        {
+          "id": "v1",
+          "price": 728,
+          "label_ar": "صغیر",
+          "label_en": "Small",
+          "label_fa": "تک نفره"
+        },
+        {
+          "id": "v2",
+          "price": 1058,
+          "label_ar": "کبیر",
+          "label_en": "Big",
+          "label_fa": "دو نفره"
+        }
+      ],
+      "image": "chicken-with-pomegranate-sauce.png"
+    },
+    {
+      "id": "chicken-spinach-",
+      "category_id": "pizza",
+      "price": 728.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 1300,
+      "mins": 30,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/chicken-spinach-.png?v=mq7ytkm1",
+      "name_en": "Chicken & Spinach ",
+      "name_fa": "مرغ و اسفناج ",
+      "name_ar": "دجاج وسبانخ",
+      "desc_en": "Small",
+      "desc_fa": "تک نفره",
+      "desc_ar": "صغیر",
+      "ing_en": [
+        "Dough",
+        "white sauce",
+        "chicken fillet",
+        "mixed cheese",
+        "spinach",
+        "mushrooms",
+        "corn",
+        "black olives",
+        "bell pepper",
+        "special cheese dip"
+      ],
+      "ing_fa": [
+        "خمیر، سس سفید، فیله مرغ، میکس پنیر، اسفناج، قارچ، ذرت، زیتون سیاه، فلفل دلمه‌ای، دیپ پنیر مخصوص"
+      ],
+      "ing_ar": [
+        "عجينة، صلصة بيضاء، فيليه دجاج، خليط أجبان، سبانخ، فطر، ذرة، زيتون أسود، فلفل حلو، صوص جبن خاص"
+      ],
+      "tags": [],
+      "price_variants": [
+        {
+          "id": "v1",
+          "price": 728,
+          "label_ar": "صغیر",
+          "label_en": "Small",
+          "label_fa": "تک نفره"
+        },
+        {
+          "id": "v2",
+          "price": 1058,
+          "label_ar": "کبیر",
+          "label_en": "Big",
+          "label_fa": "دو نفره"
+        }
+      ],
+      "image": "chicken-spinach-.png"
+    },
+    {
+      "id": "chicken-mushroom",
+      "category_id": "pizza",
+      "price": 768.0,
+      "featured": false,
+      "trending": true,
+      "home_hero": false,
+      "kcal": 1300,
+      "mins": 30,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/chicken-mushroom.png?v=mq7zi6nr",
+      "name_en": "Chicken & Mushroom",
+      "name_fa": "مرغ و قارچ ",
+      "name_ar": "دجاج وفطر",
+      "desc_en": "Small",
+      "desc_fa": "تک نفره",
+      "desc_ar": "صغیر",
+      "ing_en": [
+        "Dough",
+        "white sauce",
+        "chicken schnitzel",
+        "mixed cheese",
+        "mushrooms",
+        "corn",
+        "black olives",
+        "bell pepper",
+        "special cheese dip"
+      ],
+      "ing_fa": [
+        "خمیر، سس سفید، شنیسل مرغ، میکس پنیر، قارچ، ذرت، زیتون سیاه، فلفل دلمه‌ای، دیپ پنیر مخصوص"
+      ],
+      "ing_ar": [
+        "عجينة، صلصة بيضاء، شنيتسل دجاج، خليط أجبان، فطر، ذرة، زيتون أسود، فلفل حلو، صوص جبن خاص"
+      ],
+      "tags": [],
+      "price_variants": [
+        {
+          "id": "v1",
+          "price": 768,
+          "label_ar": "صغیر",
+          "label_en": "Small",
+          "label_fa": "تک نفره"
+        },
+        {
+          "id": "v2",
+          "price": 1058,
+          "label_ar": "کبیر",
+          "label_en": "Big",
+          "label_fa": "دو، نفره"
+        }
+      ],
+      "image": "chicken-mushroom.png"
+    },
+    {
+      "id": "chicken-pesto-",
+      "category_id": "pizza",
+      "price": 728.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 1500,
+      "mins": 30,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/chicken-pesto-.png?v=mq808hed",
+      "name_en": "Chicken & Pesto ",
+      "name_fa": "مرغ و پستو ",
+      "name_ar": "دجاج وبيستو",
+      "desc_en": "Small",
+      "desc_fa": "تک نفره",
+      "desc_ar": "صغیر",
+      "ing_en": [
+        "Dough",
+        "pesto sauce",
+        "chicken fillet",
+        "mixed cheese",
+        "grilled eggplant",
+        "spinach",
+        "black olives",
+        "mushrooms",
+        "corn",
+        "special cheese dip"
+      ],
+      "ing_fa": [
+        "خمیر، سس پستو، فیله مرغ، میکس پنیر، بادمجان کبابی، اسفناج، زیتون سیاه، قارچ، ذرت، دیپ پنیر مخصوص"
+      ],
+      "ing_ar": [
+        "عجينة، صلصة بيستو، فيليه دجاج، خليط أجبان، باذنجان مشوي، سبانخ، زيتون أسود، فطر، ذرة، صوص جبن خاص"
+      ],
+      "tags": [],
+      "price_variants": [
+        {
+          "id": "v1",
+          "price": 728,
+          "label_ar": "صغیر",
+          "label_en": "Small ",
+          "label_fa": "تک نفره"
+        },
+        {
+          "id": "v2",
+          "price": 1078,
+          "label_ar": "کبیر",
+          "label_en": "Big",
+          "label_fa": "دو نفره"
+        }
+      ],
+      "image": "chicken-pesto-.png"
+    },
+    {
+      "id": "grill-chi",
+      "category_id": "pizza",
+      "price": 1078.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 1700,
+      "mins": 30,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/grill-chi.png?v=mq80gqph",
+      "name_en": "Vision",
+      "name_fa": "ویژن",
+      "name_ar": "كريا تشيا",
+      "desc_en": "Big",
+      "desc_fa": "دو نفره",
+      "desc_ar": "کبیر",
+      "ing_en": [
+        "Dough",
+        "marinara sauce",
+        "beef bacon",
+        "salami",
+        "sliced roast beef",
+        "mixed cheese",
+        "mushrooms",
+        "corn",
+        "tomato",
+        "bell pepper rings",
+        "special cheese dip"
+      ],
+      "ing_fa": [
+        "خمیر، سس مارینارا، بیکن گوشت، سالامی، گوشت رسته ورقه‌ای، میکس پنیر، قارچ، ذرت، گوجه فرنگی، فلفل دلمه‌ای حلقه‌ای، دیپ پنیر مخصوص"
+      ],
+      "ing_ar": [
+        "عجينة، صلصة مارينارا، بيكون لحم بقري، سلامي، شرائح لحم بقري مشوي، خليط أجبان، فطر، ذرة، طماطم، حلقات فلفل حلو، صوص جبن خاص"
+      ],
+      "tags": [],
+      "price_variants": [
+        {
+          "id": "v1",
+          "price": 1078,
+          "label_ar": "کبیر",
+          "label_en": "Big",
+          "label_fa": "دو نفره"
+        }
+      ],
+      "image": "grill-chi.png"
+    },
+    {
+      "id": "turkey-pesto",
+      "category_id": "pizza",
+      "price": 778.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 1500,
+      "mins": 30,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/turkey-pesto.png?v=mq7zk1au",
+      "name_en": "Turkey Pesto",
+      "name_fa": "پستو بوقلمون",
+      "name_ar": "بيستو الديك الرومي",
+      "desc_en": "Small",
+      "desc_fa": "تک نفره",
+      "desc_ar": "صغیر",
+      "ing_en": [
+        "Dough",
+        "pesto sauce",
+        "mixed cheese",
+        "turkey bacon",
+        "cherry tomatoes",
+        "mushrooms",
+        "corn",
+        "walnuts",
+        "special cheese dip"
+      ],
+      "ing_fa": [
+        "خمیر، سس پستو، میکس پنیر، بیکن بوقلمون، گوجه گیلاسی، قارچ، ذرت، گردو، سس دیپ پنیر مخصوص"
+      ],
+      "ing_ar": [
+        "عجينة، صلصة بيستو، خليط أجبان، بيكون ديك رومي، طماطم كرزية، فطر، ذرة، جوز، صوص جبن خاص"
+      ],
+      "tags": [],
+      "price_variants": [
+        {
+          "id": "v1",
+          "price": 778,
+          "label_ar": "صغیر",
+          "label_en": "Small",
+          "label_fa": "تک نفره"
+        },
+        {
+          "id": "v2",
+          "price": 1078,
+          "label_ar": "کبیر",
+          "label_en": "Big",
+          "label_fa": "دو نفره"
+        }
+      ],
+      "image": "turkey-pesto.png"
+    },
+    {
+      "id": "pulled-beef-",
+      "category_id": "pizza",
+      "price": 1208.0,
+      "featured": false,
+      "trending": true,
+      "home_hero": true,
+      "kcal": 1700,
+      "mins": 30,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/pulled-beef-.png?v=mq7ztw0j",
+      "name_en": "Pulled Beef",
+      "name_fa": "پولد بیف ",
+      "name_ar": "لحم بقري مفتت",
+      "desc_en": "Big",
+      "desc_fa": "دو نفره",
+      "desc_ar": "کبیر",
+      "ing_en": [
+        "Dough",
+        "bacon",
+        "slow-cooked pulled beef",
+        "mixed cheese",
+        "mushrooms",
+        "corn",
+        "caramelized onion",
+        "bell pepper",
+        "special cheese dip"
+      ],
+      "ing_fa": [
+        "خمیر، بیکن، گوشت مغز ران آرام‌پز، میکس پنیر، قارچ، ذرت، پیاز کاراملی، فلفل دلمه، دیپ پنیر مخصوص"
+      ],
+      "ing_ar": [
+        "عجينة، بيكون، لحم بقري مطهو ببطء ومفتت، خليط أجبان، فطر، ذرة، بصل مكرمل، فلفل حلو، صوص جبن خاص"
+      ],
+      "tags": [],
+      "price_variants": [],
+      "image": "pulled-beef-.png"
+    },
+    {
+      "id": "peperoni",
+      "category_id": "pizza",
+      "price": 748.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 70,
+      "mins": 20,
+      "hot": 2,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/peperoni.png?v=mq80hp1s",
+      "name_en": "Peperoni",
+      "name_fa": "پپرونی",
+      "name_ar": "الپپرونی",
+      "desc_en": "dhojerh",
+      "desc_fa": "ثقرثرث",
+      "desc_ar": "قفرق",
+      "ing_en": [
+        "cercerc",
+        "ercerce",
+        "elkrcjler"
+      ],
+      "ing_fa": [
+        "ثررفث٬ فذغذف"
+      ],
+      "ing_ar": [],
+      "tags": [
+        "spicy"
+      ],
+      "price_variants": [
+        {
+          "id": "v1",
+          "price": 748,
+          "label_ar": "صغیر",
+          "label_en": "Small",
+          "label_fa": "یک نفره"
+        },
+        {
+          "id": "v2",
+          "price": 1058,
+          "label_ar": "کبیر",
+          "label_en": "Big",
+          "label_fa": "دو نفره"
+        }
+      ],
+      "image": "peperoni.png"
+    },
+    {
+      "id": "steak-pizza",
+      "category_id": "pizza",
+      "price": 1208.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 1700,
+      "mins": 30,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/steak-pizza.png?v=mq7gdnri",
+      "name_en": "Steak Pizza",
+      "name_fa": "پیتزا استیک ",
+      "name_ar": "بيتزا الستيك",
+      "desc_en": "Small",
+      "desc_fa": "تک نفره",
+      "desc_ar": "صغیر",
+      "ing_en": [
+        "Dough",
+        "white sauce",
+        "sliced steak/roast beef",
+        "mixed cheese",
+        "sun-dried tomato",
+        "mushrooms",
+        "bell pepper",
+        "caramelized onion",
+        "special cheese dip"
+      ],
+      "ing_fa": [
+        "خمیر، سس سفید، گوشت رسته ورقه‌ای، میکس پنیر، گوجه خشک، قارچ، فلفل دلمه، پیاز کاراملی، دیپ پنیر مخصوص"
+      ],
+      "ing_ar": [
+        "عجينة، صلصة بيضاء، شرائح ستيك بقري، خليط أجبان، طماطم مجففة، فطر، فلفل حلو، بصل مكرمل، صوص جبن خاص"
+      ],
+      "tags": [],
+      "price_variants": [
+        {
+          "id": "v2",
+          "price": 1208,
+          "label_ar": "کبیر",
+          "label_en": "Big",
+          "label_fa": "دو نفره"
+        }
+      ],
+      "image": "steak-pizza.png"
+    },
+    {
+      "id": "four-cheese-",
+      "category_id": "pizza",
+      "price": 488.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 1300,
+      "mins": 30,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/four-cheese-.png?v=mq80iak0",
+      "name_en": "Four Cheese ",
+      "name_fa": "چهار پنیر ",
+      "name_ar": "أربع أجبان",
+      "desc_en": "Small",
+      "desc_fa": "تک نفره",
+      "desc_ar": "صغیر",
+      "ing_en": [
+        "Dough",
+        "marinara sauce",
+        "mixed cheese",
+        "Parmesan cheese",
+        "special cheese dip"
+      ],
+      "ing_fa": [
+        "خمیر، سس مارینارا، میکس پنیر، پنیر پارمزان، دیپ پنیر مخصوص"
+      ],
+      "ing_ar": [
+        "عجينة، صلصة مارينارا، خليط أجبان، جبن بارميزان، صوص جبن خاص"
+      ],
+      "tags": [],
+      "price_variants": [
+        {
+          "id": "v1",
+          "price": 488,
+          "label_ar": "صغیر",
+          "label_en": "Small",
+          "label_fa": "یک نفره"
+        },
+        {
+          "id": "v2",
+          "price": 698,
+          "label_ar": "کبیر",
+          "label_en": "Big",
+          "label_fa": "دو نفره"
+        }
+      ],
+      "image": "four-cheese-.png"
+    },
+    {
+      "id": "-grill-chi-salad",
+      "category_id": "salad",
+      "price": 398.0,
+      "featured": false,
+      "trending": true,
+      "home_hero": false,
+      "kcal": 1100,
+      "mins": 15,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/-grill-chi-salad.png?v=mq8b6qpa",
+      "name_en": " VISION SALAD",
+      "name_fa": " سالاد ویژن",
+      "name_ar": "سلطة فيجن",
+      "desc_en": "Small",
+      "desc_fa": "تک نفره",
+      "desc_ar": "صغیر",
+      "ing_en": [
+        "ixed lettuce",
+        "fried noodles",
+        "sun-dried tomatoes",
+        "corn",
+        "black olives",
+        "capers",
+        "green peas",
+        "sunflower seeds",
+        "Parmesan cheese",
+        "salad cheese",
+        "chicken bacon"
+      ],
+      "ing_fa": [
+        "میکس کاهو، نودل سرخ شده، گوجه خشک، ذرت، زیتون سیاه، کیپر، نخود سبز، تخم آفتابگردان، پنیر پارمزان، پنیر سالاد، بیکن مرغ"
+      ],
+      "ing_ar": [
+        "مزيج خس، نودلز مقلية، طماطم مجففة، ذرة، زيتون أسود، كبر، بازلاء خضراء، بذور دوار الشمس، جبنة بارميزان، جبنة سلطة، بيكون دجاج"
+      ],
+      "tags": [],
+      "price_variants": [
+        {
+          "id": "v1",
+          "price": 398,
+          "label_ar": "صغیر",
+          "label_en": "small",
+          "label_fa": "تک نفره"
+        },
+        {
+          "id": "v2",
+          "price": 590,
+          "label_ar": "کبیر",
+          "label_en": "big",
+          "label_fa": "دونفره"
+        }
+      ],
+      "image": "-grill-chi-salad.png"
+    },
+    {
+      "id": "berry-salad",
+      "category_id": "salad",
+      "price": 378.0,
+      "featured": false,
+      "trending": true,
+      "home_hero": false,
+      "kcal": 650,
+      "mins": 20,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/berry-salad.png",
+      "name_en": "BERRY SALAD",
+      "name_fa": "سالاد بری",
+      "name_ar": "سلطة بیري",
+      "desc_en": "Small",
+      "desc_fa": "تک نفره",
+      "desc_ar": "صغری",
+      "ing_en": [
+        "Mixed lettuce",
+        "baguette bread",
+        "cucumber",
+        "cherry tomatoes",
+        "carrot",
+        "apple",
+        "flaxseed",
+        "black olives",
+        "Parmesan cheese",
+        "berry dressing"
+      ],
+      "ing_fa": [
+        "میکس کاهو، نان باگت، خیار، گوجه گیلاسی، هویج، سیب درختی، تخم کتان، زیتون سیاه، پنیر پارمزان، سس بری"
+      ],
+      "ing_ar": [
+        "مزيج خس، خبز باغيت، خيار، طماطم كرزية، جزر، تفاح، بذور الكتان، زيتون أسود، جبنة بارميزان، صوص بيري"
+      ],
+      "tags": [],
+      "price_variants": [
+        {
+          "id": "v1",
+          "price": 378,
+          "label_ar": "صغیر",
+          "label_en": "small ",
+          "label_fa": "تک نفره"
+        },
+        {
+          "id": "v2",
+          "price": 560,
+          "label_ar": "کبیر",
+          "label_en": "big ",
+          "label_fa": "دونفره"
+        }
+      ],
+      "image": "berry-salad.png"
+    },
+    {
+      "id": "caesar-salad",
+      "category_id": "salad",
+      "price": 550.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 500,
+      "mins": 15,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/caesar-salad.png",
+      "name_en": "Caesar Salad",
+      "name_fa": "سالاد سزار",
+      "name_ar": "سلطة سیزر",
+      "desc_en": "Small",
+      "desc_fa": "تک نفره",
+      "desc_ar": "صغیر",
+      "ing_en": [
+        "Lettuce",
+        "croutons",
+        "cherry tomatoes",
+        "black olives",
+        "Parmesan cheese"
+      ],
+      "ing_fa": [
+        "کاهو پیچ، نان کروتان، گوجه گیلاسی، زیتون سیاه، پنیر پارمزان"
+      ],
+      "ing_ar": [
+        "خس، خبز محمص، طماطم كرزية، زيتون أسود، جبن بارميزان"
+      ],
+      "tags": [],
+      "price_variants": [
+        {
+          "id": "v1",
+          "price": 550,
+          "label_ar": "صغیر",
+          "label_en": "small",
+          "label_fa": "تک نفره"
+        },
+        {
+          "id": "v2",
+          "price": 760,
+          "label_ar": "کبیر",
+          "label_en": "big",
+          "label_fa": "دونفره"
+        }
+      ],
+      "image": "caesar-salad.png"
+    },
+    {
+      "id": "nostalgia-salad",
+      "category_id": "salad",
+      "price": 350.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 250,
+      "mins": 15,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/nostalgia-salad.png?v=mq8baqru",
+      "name_en": "Nostalgia Salad",
+      "name_fa": "سالاد نوستالژی",
+      "name_ar": "سلطة نوستالجیا",
+      "desc_en": "Small",
+      "desc_fa": "تک نفره",
+      "desc_ar": "صغیر",
+      "ing_en": [
+        "Lettuce",
+        "cucumber",
+        "tomato",
+        "corn",
+        "carrot",
+        "chicken bacon",
+        "special dressing"
+      ],
+      "ing_fa": [
+        "کاهو پیچ، خیار، گوجه، ذرت، هویج، بیکن مرغ، سس مخصوص"
+      ],
+      "ing_ar": [
+        "خس، خيار، طماطم، ذرة، جزر، بيكون دجاج، صوص خاص"
+      ],
+      "tags": [],
+      "price_variants": [
+        {
+          "id": "v1",
+          "price": 350,
+          "label_ar": "صغیر",
+          "label_en": "small",
+          "label_fa": "تک نفره"
+        },
+        {
+          "id": "v2",
+          "price": 500,
+          "label_ar": "کبیر",
+          "label_en": "big",
+          "label_fa": "دونفره"
+        }
+      ],
+      "image": "nostalgia-salad.png"
+    },
+    {
+      "id": "turkey-bacon-toast",
+      "category_id": "san",
+      "price": 598.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 650,
+      "mins": 15,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/turkey-bacon-toast.png?v=mq80r352",
+      "name_en": "TURKEY BACON TOAST",
+      "name_fa": " تست بیکن بوقلمون",
+      "name_ar": " ساندويتش توست بيكون الديك الرومي",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [
+        "Toasted special bread",
+        "5 slices turkey bacon",
+        "Gouda cheese slice",
+        "tartar sauce",
+        "potato sticks",
+        "lettuce",
+        "tomato",
+        "pickles",
+        "special cheese dip"
+      ],
+      "ing_fa": [
+        "نان مخصوص تست‌شده، ۵ ورق بیکن بوقلمون، پنیر ورقه‌ای گودا، سس تارتار، چیپس خلالی، کاهو، گوجه، خیارشور، دیپ پنیر مخصوص"
+      ],
+      "ing_ar": [
+        "خبز خاص محمص، 5 شرائح بيكون ديك رومي، شريحة جبنة غودا، صلصة التارتار، بطاطس عيدان، خس، طماطم، مخلل، صوص جبن خاص"
+      ],
+      "tags": [],
+      "price_variants": [],
+      "image": "turkey-bacon-toast.png"
+    },
+    {
+      "id": "beef-bacon-toast",
+      "category_id": "san",
+      "price": 598.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 800,
+      "mins": 15,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/beef-bacon-toast.png?v=mq7z9sy6",
+      "name_en": " BEEF BACON TOAST",
+      "name_fa": "تست بیکن گوشت",
+      "name_ar": " ساندويتش توست بيكون اللحم البقري",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [
+        "Toasted special bread",
+        "5 slices beef bacon",
+        "Gouda cheese slice",
+        "tartar sauce",
+        "potato sticks",
+        "lettuce",
+        "tomato",
+        "pickles",
+        "special cheese dip"
+      ],
+      "ing_fa": [
+        "نان مخصوص تست‌شده، ۵ ورق بیکن گوشت، پنیر ورقه‌ای گودا، سس تارتار، چیپس خلالی، کاهو، گوجه، خیارشور، دیپ پنیر مخصوص"
+      ],
+      "ing_ar": [
+        "خبز خاص محمص، 5 شرائح بيكون لحم بقري، شريحة جبنة غودا، صلصة التارتار، بطاطس عيدان، خس، طماطم، مخلل، صوص جبن خاص"
+      ],
+      "tags": [],
+      "price_variants": [],
+      "image": "beef-bacon-toast.png"
+    },
+    {
+      "id": "grillchi-zinger-classic-or-chili-",
+      "category_id": "san",
+      "price": 688.0,
+      "featured": false,
+      "trending": true,
+      "home_hero": false,
+      "kcal": 750,
+      "mins": 15,
+      "hot": 2,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/grillchi-zinger-classic-or-chili-.png?v=mq7yz224",
+      "name_en": "Vision Zinger (Classic or Chili)",
+      "name_fa": "زینگر ویژن (ساده یا چیلی)",
+      "name_ar": "زنجر Vision (عادي أو حار)",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [
+        "150g crispy chicken breast",
+        "tartar sauce",
+        "lettuce",
+        "tomato",
+        "cucumber pickle",
+        "special cheese dip."
+      ],
+      "ing_fa": [
+        "۱۵۰ گرم سینه مرغ سوخاری، سس تارتار، کاهو، گوجه، خیارشور، دیپ پنیر مخصوص"
+      ],
+      "ing_ar": [
+        "150 غرام صدر دجاج مقرمش، صلصة تارتار، خس، طماطم، مخلل خيار، ديب جبنة خاص"
+      ],
+      "tags": [],
+      "price_variants": [],
+      "image": "grillchi-zinger-classic-or-chili-.png"
+    },
+    {
+      "id": "steak-toast-sandwich",
+      "category_id": "san",
+      "price": 798.0,
+      "featured": false,
+      "trending": true,
+      "home_hero": false,
+      "kcal": 820,
+      "mins": 20,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/steak-toast-sandwich.png?v=mq7yvl7m",
+      "name_en": "Steak Toast Sandwich",
+      "name_fa": "ساندویچ تست استیک",
+      "name_ar": "ساندويش توست ستيک",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [
+        "135g sliced roast beef",
+        "mushroom sauce",
+        "mixed cheese",
+        "lettuce",
+        "tomato",
+        "cucumber pickle",
+        "special cheese dip."
+      ],
+      "ing_fa": [
+        "۱۳۵ گرم راسته گوساله ورقه‌ای، سس قارچ، میکس پنیر، کاهو، گوجه، خیارشور، دیپ پنیر مخصوص"
+      ],
+      "ing_ar": [
+        "135 غرام شرائح لحم بقري (ستيك)، صلصة الفطر، خليط أجبان، خس، طماطم، مخلل خيار، ديب جبنة خاص"
+      ],
+      "tags": [],
+      "price_variants": [],
+      "image": "steak-toast-sandwich.png"
+    },
+    {
+      "id": "beef-tongue-sandwich",
+      "category_id": "san",
+      "price": 798.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 880,
+      "mins": 20,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/beef-tongue-sandwich.png?v=mq81z0c4",
+      "name_en": "Beef Tongue Sandwich",
+      "name_fa": "ساندویچ زبان",
+      "name_ar": "ساندويش لسان البقر",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [
+        "150g slow-cooked beef tongue",
+        "mushroom sauce",
+        "mixed cheese",
+        "lettuce",
+        "tomato",
+        "cucumber pickle",
+        "special cheese dip"
+      ],
+      "ing_fa": [
+        "۱۵۰ گرم زبان گوساله آرام‌پز شده، سس قارچ، میکس پنیر، کاهو، گوجه، خیارشور، دیپ پنیر مخصوص"
+      ],
+      "ing_ar": [
+        "150 غرام لسان بقر مطهو ببطء، صلصة الفطر، خليط أجبان، خس، طماطم، مخلل خيار، ديب جبنة خاص"
+      ],
+      "tags": [],
+      "price_variants": [],
+      "image": "beef-tongue-sandwich.png"
+    },
+    {
+      "id": "pulled-beef-toast-sandwich",
+      "category_id": "san",
+      "price": 748.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 850,
+      "mins": 20,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/pulled-beef-toast-sandwich.png?v=mq7z8zxo",
+      "name_en": "Pulled Beef Toast Sandwich",
+      "name_fa": "ساندویچ پولد بیف (رست بیف)",
+      "name_ar": "ساندويش بولد بيف (لحم بقري مطهو ببطء)",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [
+        "120g slow-cooked shredded beef",
+        "mushroom sauce",
+        "mixed cheese",
+        "lettuce",
+        "tomato",
+        "cucumber pickle",
+        "special cheese dip."
+      ],
+      "ing_fa": [
+        "۱۲۰ گرم مغز ران گوساله آرام‌پز شده، سس قارچ، میکس پنیر، کاهو، گوجه، خیارشور، دیپ پنیر مخصوص"
+      ],
+      "ing_ar": [
+        "120 غرام لحم بقري مفتت مطهو ببطء، صلصة الفطر، خليط أجبان، خس، طماطم، مخلل خيار، ديب جبنة خاص"
+      ],
+      "tags": [],
+      "price_variants": [],
+      "image": "pulled-beef-toast-sandwich.png"
+    },
+    {
+      "id": "grilled-chicken-thigh-or-breast-",
+      "category_id": "san",
+      "price": 648.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 850,
+      "mins": 20,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/grilled-chicken-thigh-or-breast-.png?v=mq80lnb2",
+      "name_en": "Grilled chicken (Thigh or Breast)",
+      "name_fa": "چیکن گریل (ران  یا سینه)",
+      "name_ar": "دجاج مشوي",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [
+        "Brioche bun",
+        "150g chicken",
+        "Gouda cheese slice",
+        "special sauce",
+        "lettuce",
+        "tomato",
+        "pickles",
+        "special cheese dip Estimated calories"
+      ],
+      "ing_fa": [
+        "نان بریوش تست شده، ۱۵۰ گرم گوشت مرغ، پنیر ورقه‌ای گودا، سس مخصوص، کاهو، گوجه، خیارشور، دیپ پنیر مخصوص"
+      ],
+      "ing_ar": [
+        "خبز بريوش، 150 غرام دجاج، شريحة جبنة غودا، صوص خاص، خس، طماطم، مخلل، صوص جبن خاص"
+      ],
+      "tags": [],
+      "price_variants": [],
+      "image": "grilled-chicken-thigh-or-breast-.png"
+    },
+    {
+      "id": "grillchi-chicken-grill-thigh-or-breast-",
+      "category_id": "san",
+      "price": 648.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 650,
+      "mins": 15,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/grillchi-chicken-grill-thigh-or-breast-.png?v=mq80yuea",
+      "name_en": "Vision Chicken Grill (Thigh or Breast)",
+      "name_fa": "چیکن گریل Vision (ران یا سینه)",
+      "name_ar": "دجاج جريل Vision (فخذ أو صدر)",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [
+        "150g chicken",
+        "Gouda cheese",
+        "special sauce",
+        "lettuce",
+        "tomato",
+        "cucumber",
+        "special cheese dip."
+      ],
+      "ing_fa": [
+        "۱۵۰ گرم گوشت مرغ، پنیر ورقه‌ای گودا، سس مخصوص، کاهو، گوجه، خیارشور، دیپ پنیر مخصوص"
+      ],
+      "ing_ar": [
+        "150 غرام دجاج، جبنة جودا، صلصة خاصة، خس، طماطم، مخلل خيار، ديب جبنة خاص"
+      ],
+      "tags": [],
+      "price_variants": [],
+      "image": "grillchi-chicken-grill-thigh-or-breast-.png"
+    },
+    {
+      "id": "buffalo-wings",
+      "category_id": "starters",
+      "price": 648.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 1000,
+      "mins": 15,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/buffalo-wings.png?v=mqo1hlzt",
+      "name_en": "BUFFALO WINGS",
+      "name_fa": "بوفالو وینگز",
+      "name_ar": "أجنحة بافالو",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [
+        "Chicken wings",
+        "buffalo sauce",
+        "celery",
+        "French fries"
+      ],
+      "ing_fa": [
+        "کتف و بال سوخاری، سس بوفالو، کرفس، سیب زمینی سرخ شده"
+      ],
+      "ing_ar": [
+        "أجنحة دجاج، صوص بافالو، كرفس، بطاطس مقلية"
+      ],
+      "tags": [],
+      "price_variants": [],
+      "image": "buffalo-wings.png"
+    },
+    {
+      "id": "cheesy-mushroom-fries",
+      "category_id": "starters",
+      "price": 450.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 1000,
+      "mins": 15,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/cheesy-mushroom-fries.png?v=mq829kkt",
+      "name_en": "CHEESY MUSHROOM FRIES",
+      "name_fa": "سیب زمینی با سس قارچ و پنیر",
+      "name_ar": "بطاطس بصلصة الفطر والجبن",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [
+        "French fries",
+        "mushroom sauce",
+        "cheese"
+      ],
+      "ing_fa": [
+        "سیب زمینی سرخ شده، سس قارچ، پنیر"
+      ],
+      "ing_ar": [
+        "بطاطس مقلية، صوص الفطر، جبن"
+      ],
+      "tags": [],
+      "price_variants": [],
+      "image": "cheesy-mushroom-fries.png"
+    },
+    {
+      "id": "french-fries",
+      "category_id": "starters",
+      "price": 350.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 300,
+      "mins": 15,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/french-fries.png",
+      "name_en": "FRENCH FRIES",
+      "name_fa": "سیب زمینی ساده",
+      "name_ar": "بطاطس مقلية",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [
+        "French fries"
+      ],
+      "ing_fa": [
+        "سیب زمینی سرخ شده"
+      ],
+      "ing_ar": [
+        "بطاطس مقلية"
+      ],
+      "tags": [],
+      "price_variants": [],
+      "image": "french-fries.png"
+    },
+    {
+      "id": "chicken-fingers",
+      "category_id": "starters",
+      "price": 598.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 700,
+      "mins": 15,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/chicken-fingers.png?v=mq894vil",
+      "name_en": "CHICKEN FINGERS",
+      "name_fa": "فینگر چیکن",
+      "name_ar": "أصابع الدجاج",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [
+        "10 pieces chicken schnitzel",
+        "special sauce",
+        "French fries"
+      ],
+      "ing_fa": [
+        "۱۰ عدد شنیسل مرغ، سس مخصوص، سیب زمینی سرخ شده"
+      ],
+      "ing_ar": [
+        "10 قطع شنيتسل دجاج، صوص خاص، بطاطس مقلية"
+      ],
+      "tags": [],
+      "price_variants": [],
+      "image": "chicken-fingers.png"
+    },
+    {
+      "id": "garlic-bread",
+      "category_id": "starters",
+      "price": 650.0,
+      "featured": false,
+      "trending": false,
+      "home_hero": false,
+      "kcal": 700,
+      "mins": 15,
+      "hot": 0,
+      "available": true,
+      "sort_order": 0,
+      "image_url": "/api/img/dishes/garlic-bread.png?v=mq803fy6",
+      "name_en": "GARLIC BREAD",
+      "name_fa": "نان سیر",
+      "name_ar": "خبز بالثوم",
+      "desc_en": "",
+      "desc_fa": "",
+      "desc_ar": "",
+      "ing_en": [
+        "Pizza dough",
+        "garlic sauce",
+        "fresh garlic",
+        "parsley",
+        "mixed cheese"
+      ],
+      "ing_fa": [
+        "خمیر پیتزا، سس سیر، سیر تازه، جعفری، میکس پنیر"
+      ],
+      "ing_ar": [
+        "عجينة بيتزا، صلصة الثوم، ثوم طازج، بقدونس، خليط أجبان"
+      ],
+      "tags": [],
+      "price_variants": [],
+      "image": "garlic-bread.png"
+    }
+  ]
+}

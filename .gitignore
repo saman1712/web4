@@ -1,0 +1,10 @@
+node_modules
+.next
+out
+.ref
+.env
+.env*.local
+*.log
+.DS_Store
+.grillchi-menu.html
+tsconfig.tsbuildinfo
